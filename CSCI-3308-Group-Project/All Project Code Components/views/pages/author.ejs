@@ -1,0 +1,25 @@
+<%- include('../partials/header') %>
+<%- include('../partials/navbar') %>
+
+	<div class="row">
+		<div class="col-3">
+			<br><br><br><br><br>
+			<div class="card-body mx-auto">
+				<h2 class="text-center" id=name><%= firstname %> <%= lastname %> </h2> 
+				<h4 class="text-center"><%= email %> </h4>
+				<h5 class="text-center"> Member since: <%= memberDate %> </h5>
+			</div>
+		</div>
+		<div class="col-9">
+			<h1 class="text-center">Recent Books:</h1>
+			<div class="card book">
+				<div class="row">
+					<div class="container-lg" style="margin-top: 2%">
+						<%- include('../partials/book', {items: items}); %>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script src="../../resources/js/script.js"></script>
+<%- include('../partials/footer') %>

@@ -1,0 +1,21 @@
+﻿CREATE TABLE users (
+        accountID INT NOT NULL,
+        firstName VARCHAR(50) NOT NULL,
+        lastName VARCHAR(50) NOT NULL,
+        memberSince DATE NOT NULL,
+        physical VARCHAR(42)[],
+        ebook VARCHAR(42)[],
+	audiobook VARCHAR(42)[],
+        Password VARCHAR(100) NOT NULL,
+        Email VARCHAR(100) NOT NULL,
+	books VARCHAR(20)[],
+	favAuthors VARCHAR(40)[],
+	favGenres VARCHAR(40)[]
+);
+
+CREATE TABLE library(
+        isbn VARCHAR(20) NOT NULL, 
+        author VARCHAR(45),
+        title VARCHAR(100)
+);
+        

@@ -1,0 +1,55 @@
+html{
+    height:100%; 
+    margin: auto;
+    padding: 150px;
+}
+body {
+	display: -ms-flexbox;
+  	display: flex;
+  	-ms-flex-align: center;
+  	align-items: center;
+  	padding-top: 40px;
+  	padding-bottom: 40px;
+	font-family: "Sanchez";
+	background: #90c3cc;
+}
+
+.form-bookSurvey {
+	width: 100%;
+	max-width: 330px;
+	padding: 15px;
+	margin: auto;
+}
+
+.form-bookSurvey .form-control {
+	position: relative;
+	box-sizing: border-box;
+	height: auto;
+	padding: 10px;
+	font-size: 16px;
+}
+
+.form-bookSurvey input[type="authors"] {
+	margin-bottom: -1px;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 0;
+  }
+
+ /* adapted from https://www.w3schools.com/howto/howto_css_hero_image.asp  */
+.banner-img {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("bookshelf.jpg");
+	height: 50%;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	position: relative;
+}
+
+.banner-text {
+	text-align: center;
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+  	color: white;
+} 

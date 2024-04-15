@@ -1,0 +1,88 @@
+<%- include('../partials/header') %>
+<%- include('../partials/navbar') %>
+<link href="../resources/css/<%=local_css%>" rel="stylesheet">
+
+<div class="main">
+    <div class="title">
+        <h1 class="myLibrary">Your Library</h1>
+        <h2 href="#myModal"
+        class="btn btn-info"
+        data-toggle="modal">Add a book</h2>
+    </div>
+    <div class="card h-50" id="physical">
+      <h2 class="text-center"> Physical Books </h2>
+        <%- include('../partials/book', {items: physical}); %>
+    </div>
+    <br>
+    <div class="card" id="ebook">
+        <h2 class="text-center"> Ebooks </h2>
+        <div class="">
+          <%- include('../partials/book', {items: ebook}); %>
+        </div>
+    </div>
+    <br>
+    <div class="card" id="audio">
+      <h2 class="text-center"> Audiobooks </h2>
+        <%- include('../partials/book', {items: audio}); %>
+    </div>
+</div>
+
+<div id="myModal" class="modal fade">
+    <div class="modal-dialog modal-login">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">Add a book</h4>
+          <button
+            type="button"
+            class="close"
+            data-dismiss="modal"
+            aria-hidden="true"
+          >
+            &times;
+          </button>
+        </div>
+        <div class="modal-body">
+          <form action="/library" method="post">
+          <div class="form-group">
+            <input
+              type="text"
+              class="form-control"
+              name="bookTitle"
+              placeholder="Book Title"
+              required="required"
+            />
+          </div>
+          <div class="form-group">
+            <input
+              type="text"
+              class="form-control"
+              name="bookAuthor"
+              placeholder="Book Author"
+              required="required"
+            />
+          </div>
+          <div class="form-group">
+            <label for="bookType">What form of the book do you own?</label>  
+            <select name="bookType"
+            class="form-control"
+            required="required">
+                <option disabled selected value> -- select an option -- </option>
+                <option value="physical">physical</option>
+                <option value="eBook">ebook</option>
+                <option value="audio">audiobook</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <div class="text-center">
+              <input type="submit" />
+            </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <br /><br /><br />
+
+
+<%- include('../partials/footer') %>

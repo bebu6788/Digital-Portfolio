@@ -1,0 +1,198 @@
+body {
+  font-family: "Sanchez";
+  background: #9EADB8;
+}
+
+.main {
+	background-color: #FFFFFF;
+	width: 400px;
+	height: 425px;
+	margin: 100px auto;
+	border-radius: 1.5em;
+	box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+}
+
+.welcome {
+	font-family: "Sanchez";
+	color: #90C3CC;
+	padding-top: 25px;
+	font-size: 25px;
+}
+
+.login {
+	font-family: "Sanchez";
+	color: #90C3CC;
+	padding-top: 5px;
+  text-align: center;
+}
+
+form.form1 {
+	padding-top: 10px;
+}
+.userEmail {
+	width: 76%;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    margin-bottom: 27px;
+    font-family: "Sanchez";
+}
+
+.pass {
+	width: 76%;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+	padding: 10px 20px;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    margin-bottom: 27px;
+    font-family: "Sanchez";
+}
+
+.login_submit{
+	cursor: pointer;
+    color: #fff;
+    background: linear-gradient(to right, #b5c2cc, #90C3CC);
+    border: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: "Sanchez";
+    font-size: 13px;
+    margin-left: 160px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+    border: 0;
+}
+
+.forgot{
+	padding-top: 15px;
+}
+
+.btn{
+	cursor: pointer;
+    color: #fff;
+    background: #90C3CC;
+    border: 0;
+    font-family: "Sanchez";
+    font-size: 13px;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+    align: center;
+    margin: auto;
+}
+
+
+  
+.modal-login {
+    color: #636363;
+    width: 350px;
+  }
+  .modal-login .modal-content {
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+  }
+  .modal-login .modal-header {
+    border-bottom: none;
+    position: relative;
+    justify-content: center;
+  }
+  .modal-login h4 {
+    text-align: center;
+    font-size: 26px;
+    margin: 30px 0 -15px;
+  }
+  .modal-login .form-control:focus {
+    border-color: #70c5c0;
+  }
+  .modal-login .form-control,
+  .modal-login .btn {
+    min-height: 40px;
+    border-radius: 3px;
+  }
+  .modal-login .close {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+  }
+  .modal-login.modal-dialog {
+    margin-top: 80px;
+  }
+  .modal-login .btn {
+    color: #fff;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: all 0.4s;
+    line-height: normal;
+    border: none;
+  }
+  .modal-login .btn:hover,
+  .modal-login .btn:focus {
+    background: #45aba6;
+    outline: none;
+  }
+  .trigger-btn {
+    display: inline-block;
+    margin: 100px auto;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+.modal-login .modal-footer {
+  background: #ecf0f1;
+  border-color: #dee4e7;
+  text-align: center;
+  justify-content: center;
+  margin: 0 -20px -20px;
+  border-radius: 5px;
+  font-size: 10px;
+}
+
+.valid {
+  color: green;
+}
+
+.valid:before {
+  position: relative;
+  left: -35px;
+  content: "\2713";
+}
+
+.invalid {
+  color: red;
+}
+
+.invalid:before {
+  position: relative;
+  left: -35px;
+  content: "\00D7";
+}
+
+#message p {
+  padding: 10px 35px;
+  font-size: 18px;
+}

@@ -1,0 +1,18 @@
+body {
+  font-family: "Sanchez";
+  background: #9EADB8;
+  padding: 30px;
+
+}
+.card{
+	background: #9EADB8;
+	padding: 20px;
+}
+.card-body{
+	background: #CECECE;
+}
+.book{
+	background: #CECECE;
+}
+.bookCover{
+}

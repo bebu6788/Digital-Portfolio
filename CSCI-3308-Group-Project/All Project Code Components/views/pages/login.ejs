@@ -1,0 +1,141 @@
+<%- include('../partials/header') %>
+    <div class="main">
+      <p class="welcome" align="center">Welcome to Book Hooked!</p>
+      <p class="login" align="center">Login</p>
+      <form action="/login" method="post">
+        <input class="userEmail" name="userEmail" type="text" align="center" placeholder="Email">
+        <input class="pass" name="userPass" type="password" align="center" placeholder="Password">
+        <button
+              id="login_submit"
+              name="login_submit"
+              class="login_submit"
+              onclick="onClickFunction()"
+              align="center"
+              >
+                Login
+        </button>
+      </form>
+          <div class="text-center">
+            <a
+              href="#myModal"
+              class="btn btn-info"
+              data-toggle="modal"
+              onclick="openModal()"
+              >Don't have an account? Register here!</a
+            >
+          </div>
+    </div>
+    <div id="myModal" class="modal fade">
+      <div class="modal-dialog modal-login">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Register</h4>
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-hidden="true"
+            >
+              &times;
+            </button>
+          </div>
+          <div class="modal-body">
+            <form action="/" method="post">
+            <div class="form-group">
+              <input
+                type="text"
+                class="form-control"
+                name="firstName"
+                placeholder="First Name"
+                required="required"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                type="text"
+                class="form-control"
+                name="lastName"
+                placeholder="Last Name"
+                required="required"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                type="text"
+                class="form-control"
+                name="email"
+                placeholder="Email"
+                required="required"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                type="text"
+                class="form-control"
+                name="favGenre"
+                placeholder="Favorite Book Genre"
+                required="required"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                type="text"
+                class="form-control"
+                name="favAuthor"
+                placeholder="Favorite Author"
+                required="required"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                id="psw"
+                type="password"
+                class="form-control"
+                name="password"
+                placeholder="Password"
+                required="required"
+              />
+            </div>
+            <div class="form-group">
+              <input
+                id="cpsw"
+                type="password"
+                class="form-control"
+                name="confirm"
+                placeholder="Confirm Password"
+                required="required"
+              />
+            </div>
+            <div class="form-group">
+              <button
+                id="my_submit_button"
+                class="btn btn-primary btn-block login-btn"
+                onclick="onClickFunction()"
+                disabled
+              >
+                Sign Up
+              </button>
+            </div>
+            <div class="modal-footer">
+              <div id="message" style="display: block">
+                <h3>Your password must have the following:</h3>
+                <p id="letter" class="invalid">A <b>lowercase</b> letter</p>
+                <p id="capital" class="invalid">
+                  A <b>capital (uppercase)</b> letter
+                </p>
+                <p id="number" class="invalid">A <b>number</b></p>
+                <p id="symbol" class="invalid">A <b>symbol</b> "!@#$%^&*()".</p>
+                <p id="length" class="invalid">Minimum <b>9 characters</b></p>
+                <p id="match" class="invalid">
+                  Password and Confirm Password Match
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br /><br /><br />
+  <script src="../resources/js/landingPage_script.js"></script>
+
+  <%- include('../partials/footer') %>
