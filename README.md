@@ -1,6 +1,10 @@
-Github Portfolio
+**Welcom to my Github Portfolio**
 
-Projects:
+Hello, my name is Ben! 
+
+As a senior studying Computer Science at CU Boulder, my academic journey has been one of steady growth and exploration. Through the challenges of coursework, I've developed proficiency in programming languages like Java, Python, and C++, as well as sharpened my problem-solving abilities in algorithmic design. Outside of academics, I've found purpose and challenge in the world of bouldering and rock climbing. These activities offer a balance to my tech-focused studies, providing both physical exertion and mental stimulation. The problem-solving aspect of climbing has proven to be particularly rewarding, echoing the logic puzzles I encounter in coding. In addition to this, I have a deep passion for music, particularly guitar and piano. These instruments serve as outlets for creativity and self-expression, offering a welcome contrast to the structured nature of computer science studies. Whether strumming chords on my guitar or composing melodies on the piano, I find inspiration in the rhythm and harmony of music. Much like the logical challenges of coding, mastering complex chord progressions and intricate melodies requires patience, dedication, and a keen attention to detail. Through my musical endeavors, I've cultivated a sense of discipline and artistic intuition that enriches my overall academic experience and contributes to a well-rounded approach to personal growth. Whether it's coding, climbing, or playing an instrument, I always put my best foot forward and dedicate myself to the task at hand. I think of myself as a hard worker, and when I am passionate about something, I fully immerse myself in it. 
+
+Projects: (Incomplete, still need to find some lost github repos soon)
 
 "Soccer Party" is a dynamic, Mario Party-inspired game coded in C++. Players navigate through a series of challenges and mini-games, reminiscent of classic party-style gaming. With engaging move-based mechanics, participants compete in soccer-themed activities, fostering a fun and competitive atmosphere. The project showcases proficiency in C++ programming, incorporating object-oriented principles for game design and development. It demonstrates creativity in adapting traditional gaming concepts into an interactive and entertaining experience, highlighting both technical skill and imaginative game design prowess.
 
