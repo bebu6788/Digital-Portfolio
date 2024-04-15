@@ -1,0 +1,37 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/0e/c7/93/0ec7934f4fa5134d2967fe5db2123443.jpg");
+    background-color: white;
+}
+
+.container {
+    margin-top: 200px;
+    margin-left: 196px;
+}
+
+.btn:hover {
+    color: transparent;
+}
+
+.input-text:focus {
+    box-shadow: 0px 0px 0px;
+    border-color: #f8c146;
+    outline: 100px;
+}
+
+.form-control {
+    border: 1px solid #f8c146
+}
+.card{
+    background-color: transparent;
+    margin-left: 400px;
+}
+.card-title{
+    color: white;
+}
+.card-body{
+    color: whitesmoke;
+}
+.btn.btn-primary{
+    margin-left: 50px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,40 @@
+<%- include('../partials/header') %>
+<%- include('../partials/menu') %>
+
+<body>
+	<table class="table table-bordered table-dark">
+		<thead>
+		  <tr>
+			<th scope="col">Image</th>
+			<th scope="col">Name</th>
+			<th scope="col">Category</th>
+			<th scope="col">Alc Content</th>
+			<th scope="col">ID</th>
+		  </tr>
+		</thead>
+		<tbody>
+		  <!-- <tr>
+			<td><img src="https://i1.sndcdn.com/avatars-U3ir1j6Qhg3QxaII-zPG37Q-t240x240.jpg"></td>
+			<td>Bruh Drink</td>
+			<td>Dawg</td>
+			<td>Alcoholic</td>
+			<td class="idColor">1234</td>
+		  </tr> -->
+
+		  <!-- dynamically fill the table using the GET in server.js -->
+		  <% for(var i=0; i < drink_data.length; i++) { %>
+			<tr>
+				<td><img src="<%= drink_data[i].drinkimg %>"></td>
+				<td><%= drink_data[i].drinkname %></td>
+				<td><%= drink_data[i].drinkcat %></td>
+				<td><%= drink_data[i].drinkalc %></td>
+				<td class="idColor"><%= drink_data[i].drinkid %></td>
+			  </tr>
+		 <% } %>
+		</tbody>
+		
+	  </table>
+
+</body>
+
+<%- include('../partials/footer') %>

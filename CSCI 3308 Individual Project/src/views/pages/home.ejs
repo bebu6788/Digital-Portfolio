@@ -1,0 +1,26 @@
+<%- include('../partials/header') %>
+<%- include('../partials/menu') %>
+
+<script language="JavaScript" src="../../resources/js/my_scripts.js"></script>
+<body>
+	<div class="container justify-content-center">
+		<div class="row">
+			<div class="col-md-8">
+				<div class="input-group mb-3"> <input type="text" class="form-control input-text" placeholder="Enter a Drink...." id="drinkID">
+					<div class="input-group-append"> 
+						<button id = "buttonID" class="btn btn-outline-warning btn-lg" type="button" onclick="getDrink()"><i class="fa fa-search"></i></button> 
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	<div class="containter" style="padding-top: 70px;">
+		<div class="card-columns" id="card">
+		</div>
+	</div>
+	
+</body>
+
+<%- include('../partials/footer') %>

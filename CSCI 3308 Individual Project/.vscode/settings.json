@@ -1,0 +1,8 @@
+{
+	// Recommended extensions for this lab.
+	"extenstions": [
+		// These will highlight TODOs, and add a tree 🌳 of them on the left.
+		"wayou.vscode-todo-highlight",
+		"gruntfuggly.todo-tree",
+	]
+}
