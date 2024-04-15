@@ -1,0 +1,28 @@
+Welcome to Sports Party!
+
+Sports Party is a turn-based tabletop game for up to four players!
+Each turn choose between Roll, Power Up, and Quit
+
+Rolling:
+Click on your players piece after your roll to complete your move!
+When a move is complete, if your piece lands on a power-up square, it will be added to your inventory
+
+Power Up:
+If you have collected a power up, you will be able to use it on your next legal turn
+The Power-Ups can make or break your chances of winning!
+The Double Team: Allows your player to roll two dice rolling from 1-12
+Pick-6: Allows you to send an opponent back 6 squares by right clicking on their piece
+Halftime: Allows you to roll a 3-sided dice rolling from 1-3
+
+Quit:
+At any point if you need to go, don't fret!
+Just press quit on your turn and the game will continue on without you
+If there are fewer than two players remaining, the game will end
+
+Injury and Bench:
+If a player rolls a 6, they have a 50% chance of getting Injured
+When Injured, your player will visit the trainer and sit out two rounds
+If a plyer rolls a 1, there underperformance gives them a 25% chance of getting Benched
+When Benched, your player must roll a 3 or higher to move off the bench
+
+Click Start Game to begin your race to the finish line!

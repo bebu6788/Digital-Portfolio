@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>powerUpDialog</class>
+ <widget class="QDialog" name="powerUpDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>313</width>
+    <height>363</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>25</x>
+     <y>20</y>
+     <width>261</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>20</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">@import url('https://fonts.googleapis.com/css?family=Sarpanch:900');
+
+$rotationAmt: -12;
+
+body {
+  display: grid;
+  grid-template-areas: &quot;. . .&quot; &quot;. text .&quot; &quot;. . .&quot;;
+  grid-template-rows: 1fr auto 1fr;
+  grid-template-columns: 1fr auto 1fr;
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  overflow: hidden;
+  background-image: radial-gradient(circle, #333333, #222222)
+}
+
+h1 {
+  transform: skew(#{$rotationAmt}deg) rotate(#{$rotationAmt}deg);
+  grid-area: text;
+  font-family: 'Sarpanch', sans-serif;
+  font-size: 20vmin;
+  margin: 0;
+  padding: 30px;
+  color: #1d9099;
+  text-shadow: 1vmin 1vmin 0 #E79C10, -1vmin -1vmin 0 #D53A33;
+}</string>
+   </property>
+   <property name="text">
+    <string>Select Your Power-Up!</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="doubleTeamBtn">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>82</y>
+     <width>271</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Double Team</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pick6Btn">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>170</y>
+     <width>271</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Pick-6</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="halftimeBtn">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>260</y>
+     <width>271</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Halftime</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
