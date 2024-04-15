@@ -1,0 +1,32 @@
+
+*** FNCD Day 9 ***
+Opening... (current budget $320518.60)
+
+
+Washing...
+
+Intern Moses washed Car20 using a ElbowGrease wash method and made it Clean
+
+Intern Isabele washed EV14 using a Detailed wash method and made it Clean
+
+Intern Sam washed Monster5 using a Chemical wash method and made it Clean
+
+Intern Moses washed Motor32 using a ElbowGrease wash method and made it Clean
+
+Intern Isabele washed Pickup11 using a Detailed wash method and made it Clean
+
+Intern Sam washed EV15 using a Chemical wash method and made it Clean
+
+
+Repairing...
+
+
+Selling...
+
+Satellite Radio added. Price increased by $3379.70
+Salesperson Holden sold Clean LikeNew SatRadio Pickup8 to Buyer for $70973.70 (earned $25.0)
+
+
+Ending...
+
+Intern Moses has quit FNCD 

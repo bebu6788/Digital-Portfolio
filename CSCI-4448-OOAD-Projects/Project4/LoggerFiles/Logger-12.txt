@@ -1,0 +1,88 @@
+
+*** FNCD Day 12 ***
+FNCD North Opening... (current budget $988012.04)
+
+Purchased Used, Clean Car for $31956.8
+
+FNCD South Opening... (current budget $2436210.28)
+
+Purchased Broken, Dirty Car for $70792.0
+
+
+FNCD North Washing...
+
+Intern Bella washed Limo8 using a Chemical wash method and made it Sparkling (earned $70.0)
+
+Intern Nora washed Hyper26 using a Detailed wash method and made it Clean
+
+Intern Faith washed Pickup21 using a Detailed wash method and made it Dirty
+
+Intern Bella washed PerfCar154 using a Chemical wash method and made it Clean
+
+Intern Nora washed Limo112 using a Detailed wash method and made it Clean
+
+Intern Faith washed Pickup18 using a Detailed wash method and made it Clean
+
+
+FNCD South Washing...
+
+Intern Yin washed Motor105 using a Chemical wash method and made it Clean
+
+Intern Braden washed Car96 using a ElbowGrease wash method and made it Dirty
+
+Intern Carmen washed Hyper181 using a Chemical wash method and made it Clean
+
+Intern Yin washed EV66 using a Chemical wash method and made it Clean
+
+Intern Braden washed Car99 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Pickup72 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Hannah repaired Pickup22 and made it Used (earned $25.0)
+
+Mechanic Adin repaired Monster30 and made it LikeNew (earned $10.0)
+
+Mechanic Ethan repaired Pickup21 and made it Used (earned $25.0)
+
+Mechanic Hannah repaired Pickup20 and made it LikeNew (earned $25.0)
+
+Mechanic Adin repaired PerfCar180 and made it LikeNew (earned $50.0)
+
+
+FNCD South Repairing...
+
+Mechanic Umar repaired Monster85 and made it Used (earned $10.0)
+
+Mechanic Isabele repaired Hyper181 and made it Used (earned $100.0)
+
+Mechanic Joe repaired Monster84 and made it LikeNew (earned $10.0)
+
+
+FNCD North Selling...
+
+Salesperson Charlie sold Clean LikeNew Motor129 to Buyer for $28936.00 (earned $10.0)
+
+Salesperson Zander sold Dirty LikeNew Car46 to Buyer for $33338.00 (earned $10.0)
+
+
+FNCD South Selling...
+
+Satellite Radio added. Price increased by $6759.30
+Salesperson Solomon sold Clean LikeNew SatRadio Limo61 to Buyer for $141945.30 (earned $70.0)
+
+Extended Warranty added. Price increased by $33750.75
+Undercoating added. Price increased by $10125.23
+Satellite Radio added. Price increased by $10631.49
+Salesperson Brant sold Dirty LikeNew SatRadio Undercoat ExtWar Monster84 to Buyer for $223261.21 (earned $10.0)
+
+Satellite Radio added. Price increased by $14583.70
+Salesperson Brant sold Clean LikeNew SatRadio Hyper83 to Buyer for $306257.70 (earned $100.0)
+
+
+FNCD North Ending...
+
+
+FNCD South Ending...

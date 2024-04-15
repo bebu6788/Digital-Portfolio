@@ -1,0 +1,31 @@
+
+*** FNCD Day 27 ***
+Opening... (current budget $2126114.48)
+
+
+Washing...
+
+Intern Amanda washed PerfCar116 using a ElbowGrease wash method and made it Clean
+
+Intern Pete washed PerfCar114 using a ElbowGrease wash method and made it Clean
+
+Intern Don washed PerfCar115 using a Detailed wash method and made it Clean
+
+Intern Amanda washed Motor54 using a ElbowGrease wash method and made it Dirty
+
+Intern Pete washed EV107 using a ElbowGrease wash method and made it Sparkling (earned $10.0)
+
+Intern Don washed Monster5 using a Detailed wash method and made it Sparkling (earned $10.0)
+
+
+Repairing...
+
+Mechanic Jose repaired PerfCar116 and made it LikeNew (earned $50.0)
+
+Mechanic Derrek repaired PerfCar114 and made it LikeNew (earned $50.0)
+
+
+Selling...
+
+
+Ending...

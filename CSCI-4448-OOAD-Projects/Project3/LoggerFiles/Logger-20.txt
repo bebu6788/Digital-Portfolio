@@ -1,0 +1,44 @@
+
+*** FNCD Day 20 ***
+Opening... (current budget $1090197.58)
+
+
+Washing...
+
+Intern Peter washed Motor3 using a Chemical wash method and made it Clean
+
+Intern Kanye washed Pickup86 using a ElbowGrease wash method and made it Dirty
+
+Intern Derrek washed Monster7 using a ElbowGrease wash method and made it Dirty
+
+Intern Peter washed PerfCar19 using a Chemical wash method and made it Clean
+
+Intern Kanye washed EV12 using a ElbowGrease wash method and made it Clean
+
+Intern Derrek washed Monster5 using a ElbowGrease wash method and made it Clean
+
+
+Repairing...
+
+Mechanic Tristan repaired Pickup86 and made it Used (earned $25.0)
+
+
+Selling...
+
+Undercoating added. Price increased by $3539.16
+Salesperson Brett sold Sparkling LikeNew Undercoat EV15 to Buyer for $74322.28 (earned $10.0)
+
+Satellite Radio added. Price increased by $3539.16
+Salesperson Brett sold Sparkling LikeNew SatRadio EV15 to Buyer for $74322.28 (earned $10.0)
+
+Satellite Radio added. Price increased by $3539.16
+Salesperson Brett sold Sparkling LikeNew SatRadio EV15 to Buyer for $74322.28 (earned $10.0)
+
+
+Ending...
+
+Peter has been promoted to Mech
+
+Mech Tristan has quit FNCD 
+
+Intern Kanye has quit FNCD 

@@ -1,0 +1,80 @@
+
+*** FNCD Day 2 ***
+FNCD North Opening... (current budget $241762.10)
+
+Hired Intern Nora
+
+Purchased Broken, Dirty Car for $34809.0
+
+FNCD South Opening... (current budget $120111.50)
+
+
+FNCD North Washing...
+
+Intern Anne washed Monster34 using a Chemical wash method and made it Clean
+
+Intern Bella washed Car42 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Nora washed Limo10 using a Detailed wash method and made it Dirty
+
+Intern Anne washed Pickup21 using a Chemical wash method and made it Clean
+
+Intern Bella washed EV12 using a Chemical wash method and made it Clean
+
+Intern Nora washed Limo6 using a Detailed wash method and made it Sparkling (earned $70.0)
+
+
+FNCD South Washing...
+
+Intern Isabele washed Limo64 using a Chemical wash method and made it Clean
+
+Intern Solomon washed Pickup74 using a Detailed wash method and made it Dirty
+
+Intern Destiny washed PerfCar93 using a ElbowGrease wash method and made it Sparkling (earned $50.0)
+
+Intern Isabele washed Monster85 using a Chemical wash method and made it Clean
+
+Intern Solomon washed EV70 using a Detailed wash method and made it Clean
+
+Intern Destiny washed Monster87 using a ElbowGrease wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Hannah repaired Pickup22 and made it Used (earned $25.0)
+
+Mechanic Adin repaired Motor53 and made it LikeNew (earned $10.0)
+
+Mechanic Ethan repaired Pickup23 and made it LikeNew (earned $25.0)
+
+
+FNCD South Repairing...
+
+Mechanic Derrek repaired Pickup76 and made it LikeNew (earned $25.0)
+
+Mechanic Umar repaired Monster88 and made it LikeNew (earned $10.0)
+
+Mechanic Moses repaired PerfCar95 and made it Used (earned $50.0)
+
+Mechanic Derrek repaired Monster89 and made it Used (earned $10.0)
+
+Mechanic Umar repaired Hyper80 and made it LikeNew (earned $100.0)
+
+
+FNCD North Selling...
+
+
+FNCD South Selling...
+
+Satellite Radio added. Price increased by $4500.10
+Salesperson Brett sold Dirty LikeNew SatRadio Monster84 to Buyer for $94502.10 (earned $10.0)
+
+
+FNCD North Ending...
+
+
+FNCD South Ending...
+
+Isabele has been promoted to Mech
+
+Mech Moses has quit FNCD 

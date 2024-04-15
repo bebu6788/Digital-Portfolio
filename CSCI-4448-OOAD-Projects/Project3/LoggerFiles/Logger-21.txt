@@ -1,0 +1,48 @@
+
+*** FNCD Day 21 ***
+Opening... (current budget $1308309.42)
+
+Hired Intern Braden
+
+Hired Intern Amanda
+
+
+Washing...
+
+Intern Derrek washed Pickup86 using a ElbowGrease wash method and made it Dirty
+
+Intern Braden washed Monster7 using a ElbowGrease wash method and made it Dirty
+
+Intern Amanda washed EV12 using a ElbowGrease wash method and made it Clean
+
+Intern Derrek washed Pickup10 using a ElbowGrease wash method and made it Clean
+
+Intern Braden washed Motor54 using a ElbowGrease wash method and made it Clean
+
+Intern Amanda washed Pickup62 using a ElbowGrease wash method and made it Clean
+
+
+Repairing...
+
+Mechanic John repaired Pickup86 and made it LikeNew (earned $25.0)
+
+
+Selling...
+
+Undercoating added. Price increased by $3797.60
+Road Rescue Coverage added. Price increased by $1594.99
+Salesperson Isabele sold Clean LikeNew RRC Undercoat PerfCar16 to Buyer for $81344.59 (earned $50.0)
+
+
+Racing...
+
+Driver Daquarius placed 18 in today's race using Motor3
+
+Driver Jeff placed 19 in today's race using Motor54
+
+Driver Ariana placed 3 in today's race using Motor32 (earned $10.0)
+
+
+Ending...
+
+Driver Jeff has quit FNCD due to injury

@@ -1,0 +1,41 @@
+
+*** FNCD Day 4 ***
+Opening... (current budget $207688.60)
+
+Hired Intern Jose
+
+Purchased Used, Clean Car for $9276.8
+
+Purchased Used, Dirty Car for $24205.6
+
+
+Washing...
+
+Intern Brett washed Motor2 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Eliza washed EV33 using a Detailed wash method and made it Clean
+
+Intern Jose washed Car21 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Brett washed Car23 using a Chemical wash method and made it Clean
+
+Intern Eliza washed Car22 using a Detailed wash method and made it Dirty
+
+Intern Jose washed Monster6 using a Chemical wash method and made it Dirty
+
+
+Repairing...
+
+Mechanic Kathryn repaired PerfCar18 and made it LikeNew (earned $50.0)
+
+Mechanic Tristan repaired PerfCar16 and made it LikeNew (earned $50.0)
+
+Mechanic John repaired Monster6 and made it LikeNew (earned $10.0)
+
+Mechanic Tristan repaired EV15 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+
+Ending...

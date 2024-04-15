@@ -1,0 +1,33 @@
+
+*** FNCD Day 30 ***
+Opening... (current budget $2105524.48)
+
+
+Washing...
+
+Intern Amanda washed Motor3 using a ElbowGrease wash method and made it Clean
+
+Intern Pete washed PerfCar114 using a ElbowGrease wash method and made it Clean
+
+Intern Don washed Car55 using a Detailed wash method and made it Sparkling (earned $10.0)
+
+Intern Amanda washed Pickup62 using a ElbowGrease wash method and made it Clean
+
+Intern Pete washed EV12 using a ElbowGrease wash method and made it Clean
+
+Intern Don washed PerfCar115 using a Detailed wash method and made it Sparkling (earned $50.0)
+
+
+Repairing...
+
+Mechanic Jose repaired Motor3 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+Road Rescue Coverage added. Price increased by $660.56
+Satellite Radio added. Price increased by $1684.43
+Salesperson Braden sold Sparkling LikeNew SatRadio RRC Car23 to Buyer for $35372.99 (earned $10.0)
+
+
+Ending...

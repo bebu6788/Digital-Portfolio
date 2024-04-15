@@ -1,0 +1,34 @@
+
+*** FNCD Day 8 ***
+Opening... (current budget $244240.80)
+
+Hired Intern Sam
+
+
+Washing...
+
+Intern Moses washed Car20 using a ElbowGrease wash method and made it Dirty
+
+Intern Isabele washed Motor3 using a Detailed wash method and made it Clean
+
+Intern Sam washed EV14 using a Chemical wash method and made it Clean
+
+Intern Moses washed Motor32 using a ElbowGrease wash method and made it Clean
+
+Intern Isabele washed Monster7 using a Detailed wash method and made it Clean
+
+Intern Sam washed EV12 using a Chemical wash method and made it Clean
+
+
+Repairing...
+
+Mechanic Tristan repaired EV14 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+Extended Warranty added. Price increased by $13518.80
+Salesperson Holden sold Clean LikeNew ExtWar Pickup8 to Buyer for $81112.80 (earned $25.0)
+
+
+Ending...

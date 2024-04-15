@@ -1,0 +1,41 @@
+
+*** FNCD Day 13 ***
+Opening... (current budget $632791.20)
+
+Hired Intern Anne
+
+Hired Intern Cat
+
+Purchased Used, Clean Car for $15028.0
+
+
+Washing...
+
+Intern Jacob washed Car55 using a Chemical wash method and made it Dirty
+
+Intern Anne washed Monster5 using a ElbowGrease wash method and made it Clean
+
+Intern Cat washed PerfCar16 using a Detailed wash method and made it Clean
+
+Intern Jacob washed EV12 using a Chemical wash method and made it Clean
+
+Intern Anne washed Car20 using a ElbowGrease wash method and made it Dirty
+
+Intern Cat washed PerfCar19 using a Detailed wash method and made it Clean
+
+
+Repairing...
+
+Mechanic Tristan repaired Pickup62 and made it LikeNew (earned $25.0)
+
+
+Selling...
+
+Extended Warranty added. Price increased by $15190.40
+Salesperson Brett sold Clean LikeNew ExtWar PerfCar16 to Buyer for $91142.40 (earned $50.0)
+
+Satellite Radio added. Price increased by $4840.60
+Salesperson Holden sold Clean LikeNew SatRadio Monster7 to Buyer for $101652.60 (earned $10.0)
+
+
+Ending...

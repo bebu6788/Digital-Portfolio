@@ -1,0 +1,84 @@
+
+*** FNCD Day 11 ***
+FNCD North Opening... (current budget $921552.04)
+
+FNCD South Opening... (current budget $2162229.55)
+
+Hired Driver Alberto
+
+Hired Driver Violet
+
+Purchased Used, Dirty Car for $29354.4
+
+Purchased LikeNew, Dirty Car for $165030.0
+
+Purchased Used, Dirty Car for $11592.0
+
+
+FNCD North Washing...
+
+Intern Bella washed Monster33 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Nora washed Limo10 using a Detailed wash method and made it Clean
+
+Intern Faith washed Monster34 using a Detailed wash method and made it Clean
+
+Intern Bella washed Car47 using a Chemical wash method and made it Clean
+
+Intern Nora washed Limo151 using a Detailed wash method and made it Sparkling (earned $70.0)
+
+Intern Faith washed Pickup22 using a Detailed wash method and made it Sparkling (earned $25.0)
+
+
+FNCD South Washing...
+
+Intern Yin washed EV171 using a Chemical wash method and made it Clean
+
+Intern Braden washed Car98 using a ElbowGrease wash method and made it Dirty
+
+Intern Carmen washed Van54 using a Chemical wash method and made it Sparkling (earned $50.0)
+
+Intern Yin washed PerfCar91 using a Chemical wash method and made it Clean
+
+Intern Braden washed EV68 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Motor107 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Hannah repaired Pickup18 and made it LikeNew (earned $25.0)
+
+Mechanic Adin repaired Pickup20 and made it Used (earned $25.0)
+
+Mechanic Adin repaired Hyper29 and made it Used (earned $100.0)
+
+
+FNCD South Repairing...
+
+Mechanic Isabele repaired Monster84 and made it Used (earned $10.0)
+
+Mechanic Joe repaired Limo65 and made it LikeNew (earned $70.0)
+
+Mechanic Umar repaired EV171 and made it LikeNew (earned $10.0)
+
+Mechanic Isabele repaired Car173 and made it LikeNew (earned $10.0)
+
+
+FNCD North Selling...
+
+Salesperson Zander sold Dirty LikeNew PerfCar41 to Buyer for $71565.00 (earned $50.0)
+
+
+FNCD South Selling...
+
+Undercoating added. Price increased by $7379.63
+Salesperson Brant sold Dirty LikeNew Undercoat Pickup76 to Buyer for $154972.13 (earned $25.0)
+
+Salesperson Destiny sold Dirty LikeNew Hyper172 to Buyer for $330060.00 (earned $100.0)
+
+
+FNCD North Ending...
+
+
+FNCD South Ending...

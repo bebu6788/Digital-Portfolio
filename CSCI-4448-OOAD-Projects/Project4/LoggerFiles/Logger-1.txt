@@ -1,0 +1,317 @@
+
+*** FNCD Day 1 ***
+FNCD North Opening... (current budget $500000.00)
+
+Purchased Broken, Dirty Car for $21874.5
+
+Purchased LikeNew, Dirty Car for $49536.0
+
+Purchased Used, Dirty Car for $34307.2
+
+Purchased Broken, Clean Car for $19112.0
+
+Purchased LikeNew, Dirty Car for $46961.0
+
+Purchased Used, Dirty Car for $35928.0
+
+Purchased LikeNew, Dirty Car for $55490.0
+
+Purchased LikeNew, Sparkling Car for $56807.0
+
+Purchased Used, Dirty Car for $40062.4
+
+Purchased Broken, Dirty Car for $34493.0
+
+Purchased Used, Dirty Car for $48221.6
+
+Purchased LikeNew, Dirty Car for $67956.0
+
+--- Budget increased by $250000 ---
+
+Purchased LikeNew, Dirty Car for $38106.0
+
+Purchased Used, Clean Car for $31264.8
+
+Purchased Broken, Dirty Car for $22367.5
+
+Purchased LikeNew, Dirty Car for $44495.0
+
+Purchased LikeNew, Dirty Car for $30528.0
+
+Purchased Used, Clean Car for $27852.8
+
+Purchased Used, Clean Car for $15816.8
+
+Purchased Used, Dirty Car for $8572.0
+
+Purchased Broken, Clean Car for $8498.5
+
+Purchased Used, Dirty Car for $16005.6
+
+--- Budget increased by $250000 ---
+
+Purchased Broken, Dirty Car for $16375.0
+
+Purchased Used, Clean Car for $13868.8
+
+Purchased LikeNew, Dirty Car for $133417.0
+
+Purchased LikeNew, Clean Car for $118476.0
+
+--- Budget increased by $250000 ---
+
+Purchased Broken, Clean Car for $56349.5
+
+Purchased Used, Dirty Car for $154307.2
+
+Purchased Broken, Dirty Car for $78868.0
+
+--- Budget increased by $250000 ---
+
+Purchased Broken, Clean Car for $91883.0
+
+Purchased Broken, Dirty Car for $23415.5
+
+Purchased LikeNew, Dirty Car for $39881.0
+
+Purchased LikeNew, Dirty Car for $41416.0
+
+--- Budget increased by $250000 ---
+
+Purchased Used, Dirty Car for $30919.2
+
+Purchased Broken, Dirty Car for $20267.0
+
+Purchased Broken, Clean Car for $15929.5
+
+Purchased LikeNew, Clean Car for $22134.0
+
+Purchased LikeNew, Dirty Car for $33068.0
+
+Purchased LikeNew, Sparkling Car for $30112.0
+
+Purchased LikeNew, Dirty Car for $35494.0
+
+Purchased LikeNew, Clean Car for $30067.0
+
+Purchased Broken, Clean Car for $19084.0
+
+--- Budget increased by $250000 ---
+
+Purchased LikeNew, Dirty Car for $12426.0
+
+Purchased Broken, Clean Car for $5604.5
+
+Purchased Broken, Dirty Car for $8709.0
+
+Purchased LikeNew, Dirty Car for $14863.0
+
+Purchased LikeNew, Dirty Car for $16669.0
+
+Purchased Used, Clean Car for $11005.6
+
+Purchased Broken, Dirty Car for $6890.0
+
+Purchased Used, Clean Car for $11277.6
+
+Purchased Used, Clean Car for $11055.2
+
+Purchased LikeNew, Dirty Car for $10261.0
+
+Purchased LikeNew, Dirty Car for $12326.0
+
+Purchased Used, Dirty Car for $8345.6
+
+FNCD South Opening... (current budget $500000.00)
+
+Purchased Used, Dirty Car for $39326.4
+
+Purchased LikeNew, Dirty Car for $49308.0
+
+Purchased LikeNew, Dirty Car for $46923.0
+
+Purchased Broken, Dirty Car for $19053.0
+
+Purchased LikeNew, Dirty Car for $40793.0
+
+Purchased LikeNew, Dirty Car for $47064.0
+
+Purchased LikeNew, Dirty Car for $61664.0
+
+Purchased LikeNew, Dirty Car for $67593.0
+
+Purchased Broken, Clean Car for $27455.5
+
+Purchased Used, Dirty Car for $48668.0
+
+Purchased Broken, Dirty Car for $28073.5
+
+Purchased Used, Dirty Car for $41851.2
+
+--- Budget increased by $250000 ---
+
+Purchased Used, Dirty Car for $26660.0
+
+Purchased LikeNew, Clean Car for $34012.0
+
+Purchased Broken, Clean Car for $20102.5
+
+Purchased LikeNew, Clean Car for $39715.0
+
+Purchased Broken, Dirty Car for $16107.5
+
+Purchased LikeNew, Dirty Car for $39112.0
+
+Purchased Broken, Dirty Car for $17632.5
+
+Purchased LikeNew, Dirty Car for $17227.0
+
+Purchased LikeNew, Dirty Car for $31761.0
+
+--- Budget increased by $250000 ---
+
+Purchased LikeNew, Clean Car for $16185.0
+
+Purchased Used, Dirty Car for $31486.4
+
+Purchased Used, Dirty Car for $9300.0
+
+Purchased Broken, Clean Car for $52163.5
+
+Purchased Used, Dirty Car for $106680.0
+
+Purchased Broken, Dirty Car for $89918.0
+
+--- Budget increased by $250000 ---
+
+Purchased Broken, Dirty Car for $53359.0
+
+Purchased Used, Dirty Car for $95136.0
+
+Purchased LikeNew, Dirty Car for $145837.0
+
+--- Budget increased by $250000 ---
+
+Purchased LikeNew, Dirty Car for $45001.0
+
+Purchased Used, Dirty Car for $35179.2
+
+Purchased Used, Dirty Car for $32927.2
+
+Purchased Used, Dirty Car for $34923.2
+
+--- Budget increased by $250000 ---
+
+Purchased Used, Dirty Car for $36821.6
+
+Purchased Broken, Dirty Car for $18337.5
+
+Purchased LikeNew, Dirty Car for $34221.0
+
+Purchased LikeNew, Dirty Car for $29534.0
+
+Purchased Used, Clean Car for $31116.8
+
+Purchased LikeNew, Dirty Car for $34339.0
+
+Purchased LikeNew, Clean Car for $33592.0
+
+Purchased Broken, Dirty Car for $18667.5
+
+Purchased LikeNew, Dirty Car for $10322.0
+
+--- Budget increased by $250000 ---
+
+Purchased Broken, Dirty Car for $9785.0
+
+Purchased Broken, Clean Car for $8429.5
+
+Purchased Used, Dirty Car for $11770.4
+
+Purchased Used, Dirty Car for $13056.0
+
+Purchased LikeNew, Dirty Car for $15361.0
+
+Purchased LikeNew, Dirty Car for $10379.0
+
+Purchased LikeNew, Clean Car for $12726.0
+
+Purchased LikeNew, Clean Car for $12756.0
+
+Purchased Broken, Clean Car for $5827.0
+
+Purchased Used, Dirty Car for $11225.6
+
+Purchased Used, Clean Car for $8424.0
+
+
+FNCD North Washing...
+
+Intern Zander washed PerfCar37 using a Detailed wash method and made it Clean
+
+Intern Anne washed Hyper27 using a Chemical wash method and made it Clean
+
+Intern Bella washed Van4 using a Chemical wash method and made it Sparkling (earned $50.0)
+
+Intern Zander washed Motor51 using a Detailed wash method and made it Clean
+
+Intern Anne washed Pickup22 using a Chemical wash method and made it Clean
+
+Intern Bella washed Car42 using a Chemical wash method and made it Dirty
+
+
+FNCD South Washing...
+
+Intern Isabele washed EV71 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Solomon washed Limo60 using a Detailed wash method and made it Clean
+
+Intern Destiny washed Pickup76 using a ElbowGrease wash method and made it Clean
+
+Intern Isabele washed Monster86 using a Chemical wash method and made it Clean
+
+Intern Solomon washed Van54 using a Detailed wash method and made it Clean
+
+Intern Destiny washed Hyper82 using a ElbowGrease wash method and made it Dirty
+
+
+FNCD North Repairing...
+
+Mechanic Hannah repaired EV13 and made it LikeNew (earned $10.0)
+
+Mechanic Adin repaired Hyper28 and made it Used (earned $100.0)
+
+Mechanic Hannah repaired Hyper29 and made it Used (earned $100.0)
+
+
+FNCD South Repairing...
+
+Mechanic Moses repaired Van54 and made it LikeNew (earned $50.0)
+
+Mechanic Derrek repaired Monster85 and made it LikeNew (earned $10.0)
+
+Mechanic Umar repaired Monster86 and made it LikeNew (earned $10.0)
+
+Mechanic Moses repaired Car97 and made it Used (earned $10.0)
+
+Mechanic Derrek repaired Hyper80 and made it Used (earned $100.0)
+
+Mechanic Umar repaired Motor107 and made it LikeNew (earned $10.0)
+
+
+FNCD North Selling...
+
+Salesperson Silva sold Dirty LikeNew Limo11 to Buyer for $135912.00 (earned $70.0)
+
+
+FNCD South Selling...
+
+
+FNCD North Ending...
+
+Zander has been promoted to Sales
+
+Sales Matthew has quit FNCD 
+
+
+FNCD South Ending...

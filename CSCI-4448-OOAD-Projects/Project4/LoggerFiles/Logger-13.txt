@@ -1,0 +1,69 @@
+
+*** FNCD Day 13 ***
+FNCD North Opening... (current budget $1013304.24)
+
+Purchased LikeNew, Dirty Car for $12678.0
+
+Purchased Used, Clean Car for $9225.6
+
+FNCD South Opening... (current budget $3031782.49)
+
+
+FNCD North Washing...
+
+Intern Bella washed EV14 using a Chemical wash method and made it Clean
+
+Intern Nora washed Monster30 using a Detailed wash method and made it Clean
+
+Intern Faith washed Car43 using a Detailed wash method and made it Sparkling (earned $10.0)
+
+Intern Bella washed Car194 using a Chemical wash method and made it Clean
+
+Intern Nora washed Pickup21 using a Detailed wash method and made it Sparkling (earned $25.0)
+
+Intern Faith washed Monster31 using a Detailed wash method and made it Clean
+
+
+FNCD South Washing...
+
+Intern Yin washed Car96 using a Chemical wash method and made it Dirty
+
+Intern Braden washed Hyper78 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Monster84 using a Chemical wash method and made it Clean
+
+Intern Yin washed Limo65 using a Chemical wash method and made it Clean
+
+Intern Braden washed Car98 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Pickup76 using a Chemical wash method and made it Dirty
+
+
+FNCD North Repairing...
+
+Mechanic Ethan repaired Hyper29 and made it LikeNew (earned $100.0)
+
+Mechanic Ethan repaired Motor195 and made it LikeNew (earned $10.0)
+
+
+FNCD South Repairing...
+
+Mechanic Umar repaired Hyper181 and made it LikeNew (earned $100.0)
+
+Mechanic Isabele repaired Monster85 and made it LikeNew (earned $10.0)
+
+
+FNCD North Selling...
+
+
+FNCD South Selling...
+
+Salesperson Destiny sold Dirty LikeNew Pickup76 to Buyer for $147592.50 (earned $25.0)
+
+
+FNCD North Ending...
+
+Intern Bella has quit FNCD 
+
+
+FNCD South Ending...

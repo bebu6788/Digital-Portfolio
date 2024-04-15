@@ -1,0 +1,112 @@
+
+*** FNCD Day 7 ***
+FNCD North Opening... (current budget $942032.12)
+
+Hired Intern Faith
+
+Purchased Used, Dirty Car for $47252.8
+
+Purchased Used, Dirty Car for $51120.0
+
+Purchased LikeNew, Dirty Car for $28653.0
+
+Purchased Used, Dirty Car for $24777.6
+
+FNCD South Opening... (current budget $1090374.90)
+
+
+FNCD North Washing...
+
+Intern Bella washed Motor48 using a Chemical wash method and made it Clean
+
+Intern Nora washed PerfCar153 using a Detailed wash method and made it Clean
+
+Intern Faith washed Limo9 using a Detailed wash method and made it Clean
+
+Intern Bella washed Limo112 using a Chemical wash method and made it Clean
+
+Intern Nora washed Hyper27 using a Detailed wash method and made it Clean
+
+Intern Faith washed Van0 using a Detailed wash method and made it Clean
+
+
+FNCD South Washing...
+
+Intern Destiny washed Hyper83 using a ElbowGrease wash method and made it Clean
+
+Intern Joe washed Limo65 using a Chemical wash method and made it Clean
+
+Intern Yin washed PerfCar90 using a Chemical wash method and made it Clean
+
+Intern Destiny washed Van57 using a ElbowGrease wash method and made it Dirty
+
+Intern Joe washed Van56 using a Chemical wash method and made it Clean
+
+Intern Yin washed Hyper79 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Ethan repaired Limo10 and made it LikeNew (earned $70.0)
+
+Mechanic Hannah repaired Car43 and made it LikeNew (earned $10.0)
+
+Mechanic Adin repaired PerfCar41 and made it LikeNew (earned $50.0)
+
+Mechanic Ethan repaired Limo152 and made it LikeNew (earned $70.0)
+
+Mechanic Hannah repaired Hyper26 and made it LikeNew (earned $100.0)
+
+Mechanic Adin repaired Monster33 and made it LikeNew (earned $10.0)
+
+
+FNCD South Repairing...
+
+Mechanic Derrek repaired Van57 and made it Used (earned $50.0)
+
+Mechanic Umar repaired Limo63 and made it LikeNew (earned $70.0)
+
+Mechanic Isabele repaired Pickup72 and made it LikeNew (earned $25.0)
+
+Mechanic Derrek repaired Monster89 and made it LikeNew (earned $10.0)
+
+Mechanic Umar repaired Monster87 and made it LikeNew (earned $10.0)
+
+Mechanic Isabele repaired EV66 and made it LikeNew (earned $10.0)
+
+
+FNCD North Selling...
+
+
+FNCD South Selling...
+
+Satellite Radio added. Price increased by $3971.50
+Salesperson Roxie sold Clean LikeNew SatRadio EV69 to Buyer for $83401.50 (earned $10.0)
+
+
+FNCD North Racing...
+
+Driver Roger placed 12 in today's race using Hyper27
+
+Driver Kathryn placed 14 in today's race using Hyper28
+
+Driver William placed 17 in today's race using Hyper29
+
+
+FNCD South Racing...
+
+Driver Jacob placed 10 in today's race using Hyper80
+
+Driver Chang placed 7 in today's race using Hyper83
+
+Driver Jack placed 9 in today's race using Hyper79
+
+
+FNCD North Ending...
+
+
+FNCD South Ending...
+
+Destiny has been promoted to Sales
+
+Sales Roxie has quit FNCD 

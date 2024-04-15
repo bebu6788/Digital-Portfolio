@@ -1,0 +1,38 @@
+
+*** FNCD Day 6 ***
+Opening... (current budget $191619.80)
+
+
+Washing...
+
+Intern Brett washed PerfCar19 using a Chemical wash method and made it Clean
+
+Intern Eliza washed Motor3 using a Detailed wash method and made it Dirty
+
+Intern Jose washed Monster5 using a Chemical wash method and made it Clean
+
+Intern Brett washed Car22 using a Chemical wash method and made it Clean
+
+Intern Eliza washed Monster6 using a Detailed wash method and made it Dirty
+
+Intern Jose washed Motor32 using a Chemical wash method and made it Dirty
+
+
+Repairing...
+
+Mechanic Kathryn repaired Pickup10 and made it LikeNew (earned $25.0)
+
+
+Selling...
+
+Satellite Radio added. Price increased by $1959.40
+Salesperson Holden sold Sparkling LikeNew SatRadio Car21 to Buyer for $41147.40 (earned $10.0)
+
+
+Ending...
+
+Brett has been promoted to Sales
+
+Sales Nora has quit FNCD 
+
+Intern Eliza has quit FNCD 

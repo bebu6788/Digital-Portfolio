@@ -1,0 +1,72 @@
+
+*** FNCD Day 23 ***
+FNCD North Opening... (current budget $3417177.50)
+
+FNCD South Opening... (current budget $4684519.71)
+
+Purchased Broken, Dirty Car for $18146.5
+
+
+FNCD North Washing...
+
+Intern Kensley washed Motor195 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Kevin washed Pickup22 using a ElbowGrease wash method and made it Clean
+
+Intern Cat washed EV218 using a Detailed wash method and made it Clean
+
+Intern Kensley washed Pickup18 using a Chemical wash method and made it Clean
+
+Intern Kevin washed PerfCar153 using a ElbowGrease wash method and made it Clean
+
+Intern Cat washed PerfCar236 using a Detailed wash method and made it Clean
+
+
+FNCD South Washing...
+
+Intern Braden washed Monster88 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Car96 using a Chemical wash method and made it Clean
+
+Intern Wexler washed Monster84 using a Chemical wash method and made it Clean
+
+Intern Braden washed Limo249 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Van256 using a Chemical wash method and made it Clean
+
+Intern Wexler washed EV67 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Hannah repaired Pickup22 and made it Used (earned $25.0)
+
+
+FNCD South Repairing...
+
+Mechanic Isabele repaired Monster84 and made it LikeNew (earned $10.0)
+
+Mechanic Yin repaired Van256 and made it Used (earned $50.0)
+
+
+FNCD North Selling...
+
+Extended Warranty added. Price increased by $5638.80
+Undercoating added. Price increased by $1691.64
+Salesperson Nora sold Clean LikeNew Undercoat ExtWar Motor49 to Buyer for $35524.44 (earned $10.0)
+
+
+FNCD South Selling...
+
+Satellite Radio added. Price increased by $4915.80
+Salesperson Solomon sold Sparkling LikeNew SatRadio Van54 to Buyer for $103231.80 (earned $50.0)
+
+
+FNCD North Ending...
+
+Kensley has been promoted to Sales
+
+Sales Silva has quit FNCD 
+
+
+FNCD South Ending...

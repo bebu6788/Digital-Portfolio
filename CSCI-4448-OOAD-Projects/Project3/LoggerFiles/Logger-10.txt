@@ -1,0 +1,48 @@
+
+*** FNCD Day 10 ***
+Opening... (current budget $386667.30)
+
+Hired Intern Jacob
+
+
+Washing...
+
+Intern Isabele washed Car22 using a Detailed wash method and made it Clean
+
+Intern Sam washed Motor0 using a Chemical wash method and made it Clean
+
+Intern Jacob washed EV12 using a Chemical wash method and made it Clean
+
+Intern Isabele washed PerfCar16 using a Detailed wash method and made it Clean
+
+Intern Sam washed Motor32 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Jacob washed EV14 using a Chemical wash method and made it Clean
+
+
+Repairing...
+
+
+Selling...
+
+Salesperson Holden sold Sparkling LikeNew Car21 to Buyer for $39188.00 (earned $10.0)
+
+Extended Warranty added. Price increased by $12410.40
+Salesperson Zach sold Clean LikeNew ExtWar EV12 to Buyer for $74462.40 (earned $10.0)
+
+Extended Warranty added. Price increased by $6605.60
+Salesperson Zach sold Clean LikeNew ExtWar Car23 to Buyer for $39633.60 (earned $10.0)
+
+Salesperson Holden sold Clean LikeNew Motor0 to Buyer for $25932.00 (earned $10.0)
+
+
+Racing...
+
+Driver Daquarius placed 5 in today's race using Monster7
+
+Driver Jeff placed 13 in today's race using Monster5
+
+Driver Ariana placed 8 in today's race using Monster4
+
+
+Ending...

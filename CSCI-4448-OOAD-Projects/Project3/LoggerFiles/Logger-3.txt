@@ -1,0 +1,50 @@
+
+*** FNCD Day 3 ***
+Opening... (current budget $118325.00)
+
+
+Washing...
+
+Intern Holden washed Monster4 using a Chemical wash method and made it Clean
+
+Intern Brett washed Car20 using a Chemical wash method and made it Clean
+
+Intern Eliza washed EV12 using a Detailed wash method and made it Clean
+
+Intern Holden washed Pickup11 using a Chemical wash method and made it Dirty
+
+Intern Brett washed PerfCar17 using a Chemical wash method and made it Clean
+
+Intern Eliza washed Pickup8 using a Detailed wash method and made it Dirty
+
+
+Repairing...
+
+Mechanic Kathryn repaired PerfCar19 and made it LikeNew (earned $50.0)
+
+Mechanic Tristan repaired PerfCar18 and made it Used (earned $50.0)
+
+Mechanic Kathryn repaired Car21 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+Salesperson Nora sold Dirty Used EV13 to Buyer for $71737.60 (earned $10.0)
+
+Salesperson Will sold Dirty LikeNew Motor1 to Buyer for $28606.00 (earned $10.0)
+
+
+Racing...
+
+Driver Daquarius placed 5 in today's race using PerfCar16
+
+Driver Jeff placed 4 in today's race using PerfCar17
+
+Driver Ariana placed 1 in today's race using PerfCar19 (earned $50.0)
+
+
+Ending...
+
+Holden has been promoted to Sales
+
+Sales Will has quit FNCD 

@@ -1,0 +1,102 @@
+
+*** FNCD Day 3 ***
+FNCD North Opening... (current budget $202013.10)
+
+FNCD South Opening... (current budget $209558.60)
+
+Hired Intern Joe
+
+
+FNCD North Washing...
+
+Intern Anne washed Monster32 using a Chemical wash method and made it Clean
+
+Intern Bella washed Limo9 using a Chemical wash method and made it Clean
+
+Intern Nora washed Limo8 using a Detailed wash method and made it Clean
+
+Intern Anne washed PerfCar41 using a Chemical wash method and made it Clean
+
+Intern Bella washed Van0 using a Chemical wash method and made it Clean
+
+Intern Nora washed Motor52 using a Detailed wash method and made it Dirty
+
+
+FNCD South Washing...
+
+Intern Solomon washed Van59 using a Detailed wash method and made it Dirty
+
+Intern Destiny washed Limo61 using a ElbowGrease wash method and made it Clean
+
+Intern Joe washed Van58 using a Chemical wash method and made it Clean
+
+Intern Solomon washed Motor106 using a Detailed wash method and made it Sparkling (earned $10.0)
+
+Intern Destiny washed Pickup74 using a ElbowGrease wash method and made it Clean
+
+Intern Joe washed Hyper79 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Ethan repaired Pickup19 and made it LikeNew (earned $25.0)
+
+Mechanic Hannah repaired Van0 and made it Used (earned $50.0)
+
+Mechanic Adin repaired Limo112 and made it Used (earned $70.0)
+
+Mechanic Ethan repaired Motor50 and made it LikeNew (earned $10.0)
+
+Mechanic Hannah repaired Hyper28 and made it LikeNew (earned $100.0)
+
+
+FNCD South Repairing...
+
+Mechanic Derrek repaired Motor105 and made it Used (earned $10.0)
+
+Mechanic Umar repaired PerfCar95 and made it LikeNew (earned $50.0)
+
+Mechanic Derrek repaired Pickup77 and made it LikeNew (earned $25.0)
+
+Mechanic Umar repaired Car98 and made it Used (earned $10.0)
+
+Mechanic Isabele repaired Limo62 and made it Used (earned $70.0)
+
+
+FNCD North Selling...
+
+Extended Warranty added. Price increased by $14197.60
+Salesperson Zander sold Dirty LikeNew ExtWar PerfCar39 to Buyer for $85185.60 (earned $50.0)
+
+Satellite Radio added. Price increased by $1666.90
+Salesperson Silva sold Dirty LikeNew SatRadio Car46 to Buyer for $35004.90 (earned $10.0)
+
+
+FNCD South Selling...
+
+Extended Warranty added. Price increased by $15743.20
+Salesperson Roxie sold Dirty LikeNew ExtWar Pickup76 to Buyer for $94459.20 (earned $25.0)
+
+
+FNCD North Racing...
+
+Driver Roger placed 13 in today's race using Monster32
+
+Driver Kathryn placed 11 in today's race using Monster31
+
+Driver William placed 5 in today's race using Monster33
+
+
+FNCD South Racing...
+
+Driver Jacob placed 15 in today's race using Pickup76
+
+Driver Chang placed 4 in today's race using Pickup74
+
+Driver Jack placed 1 in today's race using Pickup73 (earned $25.0)
+
+
+FNCD North Ending...
+
+
+FNCD South Ending...

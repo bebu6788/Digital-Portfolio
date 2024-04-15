@@ -1,0 +1,64 @@
+
+*** FNCD Day 24 ***
+Opening... (current budget $1484624.61)
+
+Hired Intern Pete
+
+Purchased Broken, Clean Car for $19521.0
+
+
+Washing...
+
+Intern Braden washed Motor3 using a ElbowGrease wash method and made it Clean
+
+Intern Amanda washed Motor54 using a ElbowGrease wash method and made it Clean
+
+Intern Pete washed Pickup62 using a ElbowGrease wash method and made it Clean
+
+Intern Braden washed EV12 using a ElbowGrease wash method and made it Clean
+
+Intern Amanda washed Monster4 using a ElbowGrease wash method and made it Dirty
+
+Intern Pete washed Pickup86 using a ElbowGrease wash method and made it Clean
+
+
+Repairing...
+
+Mechanic Jose repaired Motor3 and made it LikeNew (earned $10.0)
+
+Mechanic Peter repaired PerfCar99 and made it Used (earned $50.0)
+
+Mechanic Derrek repaired Motor54 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+Satellite Radio added. Price increased by $1651.40
+Salesperson Holden sold Sparkling LikeNew SatRadio Car23 to Buyer for $34679.40 (earned $10.0)
+
+Salesperson Isabele sold Clean LikeNew Pickup86 to Buyer for $65124.38 (earned $25.0)
+
+Extended Warranty added. Price increased by $19362.40
+Satellite Radio added. Price increased by $5808.72
+Salesperson Brett sold Clean LikeNew SatRadio ExtWar Monster7 to Buyer for $121983.12 (earned $10.0)
+
+Satellite Radio added. Price increased by $1878.50
+Salesperson Brett sold Clean LikeNew SatRadio Pickup62 to Buyer for $39448.50 (earned $25.0)
+
+Salesperson Isabele sold Sparkling LikeNew EV15 to Buyer for $70783.13 (earned $10.0)
+
+
+Racing...
+
+Driver Daquarius placed 4 in today's race using Motor3
+
+Driver Ariana placed 16 in today's race using Motor54
+
+Driver Mary placed 11 in today's race using Motor32
+
+
+Ending...
+
+Braden has been promoted to Sales
+
+Sales Holden has quit FNCD 

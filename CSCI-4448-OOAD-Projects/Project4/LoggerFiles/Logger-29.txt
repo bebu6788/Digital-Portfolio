@@ -1,0 +1,66 @@
+
+*** FNCD Day 29 ***
+FNCD North Opening... (current budget $4939536.24)
+
+Purchased Used, Clean Car for $43891.2
+
+FNCD South Opening... (current budget $5318444.31)
+
+
+FNCD North Washing...
+
+Intern Cat washed EV283 using a Detailed wash method and made it Sparkling (earned $10.0)
+
+Intern Zach washed Hyper292 using a Detailed wash method and made it Clean
+
+Intern Livy washed EV17 using a Chemical wash method and made it Dirty
+
+Intern Cat washed Van275 using a Detailed wash method and made it Sparkling (earned $50.0)
+
+Intern Zach washed Motor48 using a Detailed wash method and made it Clean
+
+Intern Livy washed Pickup20 using a Chemical wash method and made it Clean
+
+
+FNCD South Washing...
+
+Intern Braden washed Limo64 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed EV70 using a Chemical wash method and made it Clean
+
+Intern Wexler washed Car284 using a Chemical wash method and made it Clean
+
+Intern Braden washed Limo249 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Motor105 using a Chemical wash method and made it Dirty
+
+Intern Wexler washed Motor130 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Adin repaired Limo297 and made it LikeNew (earned $70.0)
+
+Mechanic Faith repaired Hyper292 and made it Used (earned $100.0)
+
+
+FNCD South Repairing...
+
+
+FNCD North Selling...
+
+Salesperson Nora sold Sparkling LikeNew EV13 to Buyer for $78162.00 (earned $10.0)
+
+
+FNCD South Selling...
+
+Satellite Radio added. Price increased by $3176.10
+Salesperson Brant sold Sparkling LikeNew SatRadio Pickup74 to Buyer for $66698.10 (earned $25.0)
+
+Salesperson Brant sold Clean LikeNew PerfCar92 to Buyer for $77792.00 (earned $50.0)
+
+
+FNCD North Ending...
+
+
+FNCD South Ending...

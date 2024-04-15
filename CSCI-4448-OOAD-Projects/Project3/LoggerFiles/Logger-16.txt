@@ -1,0 +1,33 @@
+
+*** FNCD Day 16 ***
+Opening... (current budget $790053.20)
+
+
+Washing...
+
+Intern Jacob washed EV14 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Anne washed Pickup62 using a ElbowGrease wash method and made it Dirty
+
+Intern Cat washed Pickup9 using a Detailed wash method and made it Clean
+
+Intern Jacob washed Pickup11 using a Chemical wash method and made it Clean
+
+Intern Anne washed Car23 using a ElbowGrease wash method and made it Clean
+
+Intern Cat washed PerfCar16 using a Detailed wash method and made it Clean
+
+
+Repairing...
+
+
+Selling...
+
+Undercoating added. Price increased by $3539.16
+Road Rescue Coverage added. Price increased by $1486.45
+Salesperson Holden sold Clean LikeNew RRC Undercoat EV15 to Buyer for $75808.73 (earned $10.0)
+
+
+Ending...
+
+Intern Jacob has quit FNCD 

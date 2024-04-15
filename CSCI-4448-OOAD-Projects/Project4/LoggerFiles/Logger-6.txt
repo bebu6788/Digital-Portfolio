@@ -1,0 +1,95 @@
+
+*** FNCD Day 6 ***
+FNCD North Opening... (current budget $470033.60)
+
+Purchased Used, Dirty Car for $9235.2
+
+FNCD South Opening... (current budget $1059989.26)
+
+
+FNCD North Washing...
+
+Intern Anne washed PerfCar39 using a Chemical wash method and made it Sparkling (earned $50.0)
+
+Intern Bella washed EV13 using a Chemical wash method and made it Clean
+
+Intern Nora washed Motor53 using a Detailed wash method and made it Clean
+
+Intern Anne washed Van1 using a Chemical wash method and made it Clean
+
+Intern Bella washed Limo10 using a Chemical wash method and made it Clean
+
+Intern Nora washed Pickup19 using a Detailed wash method and made it Sparkling (earned $25.0)
+
+
+FNCD South Washing...
+
+Intern Destiny washed Hyper80 using a ElbowGrease wash method and made it Clean
+
+Intern Joe washed Car98 using a Chemical wash method and made it Clean
+
+Intern Yin washed Van59 using a Chemical wash method and made it Clean
+
+Intern Destiny washed Limo64 using a ElbowGrease wash method and made it Clean
+
+Intern Joe washed Hyper78 using a Chemical wash method and made it Clean
+
+Intern Yin washed Hyper81 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Ethan repaired Motor49 and made it LikeNew (earned $10.0)
+
+Mechanic Hannah repaired Limo9 and made it LikeNew (earned $70.0)
+
+Mechanic Adin repaired Car43 and made it Used (earned $10.0)
+
+Mechanic Hannah repaired Car47 and made it LikeNew (earned $10.0)
+
+Mechanic Adin repaired PerfCar41 and made it Used (earned $50.0)
+
+
+FNCD South Repairing...
+
+Mechanic Derrek repaired Pickup72 and made it Used (earned $25.0)
+
+Mechanic Umar repaired EV68 and made it LikeNew (earned $10.0)
+
+Mechanic Isabele repaired Hyper81 and made it LikeNew (earned $100.0)
+
+Mechanic Derrek repaired EV70 and made it LikeNew (earned $10.0)
+
+Mechanic Umar repaired Motor105 and made it LikeNew (earned $10.0)
+
+Mechanic Isabele repaired Car97 and made it LikeNew (earned $10.0)
+
+
+FNCD North Selling...
+
+Extended Warranty added. Price increased by $19814.40
+Satellite Radio added. Price increased by $5944.32
+Salesperson Silva sold Clean LikeNew SatRadio ExtWar Van1 to Buyer for $124830.72 (earned $50.0)
+
+Salesperson Zander sold Sparkling LikeNew PerfCar39 to Buyer for $70988.00 (earned $50.0)
+
+Salesperson Charlie sold Clean LikeNew PerfCar37 to Buyer for $66136.00 (earned $50.0)
+
+Salesperson Silva sold Sparkling LikeNew Limo7 to Buyer for $113614.00 (earned $70.0)
+
+Salesperson Zander sold Sparkling LikeNew Limo6 to Buyer for $110980.00 (earned $70.0)
+
+
+FNCD South Selling...
+
+Extended Warranty added. Price increased by $5612.80
+Undercoating added. Price increased by $1683.84
+Salesperson Roxie sold Clean LikeNew Undercoat ExtWar Motor106 to Buyer for $35360.64 (earned $10.0)
+
+
+FNCD North Ending...
+
+Intern Anne has quit FNCD 
+
+
+FNCD South Ending...

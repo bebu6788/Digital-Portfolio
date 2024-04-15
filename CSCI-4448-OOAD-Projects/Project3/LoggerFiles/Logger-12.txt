@@ -1,0 +1,42 @@
+
+*** FNCD Day 12 ***
+Opening... (current budget $535432.80)
+
+
+Washing...
+
+Intern Isabele washed Motor54 using a Detailed wash method and made it Sparkling (earned $10.0)
+
+Intern Sam washed Car55 using a Chemical wash method and made it Clean
+
+Intern Jacob washed EV12 using a Chemical wash method and made it Clean
+
+Intern Isabele washed Car20 using a Detailed wash method and made it Clean
+
+Intern Sam washed EV33 using a Chemical wash method and made it Clean
+
+Intern Jacob washed PerfCar17 using a Chemical wash method and made it Sparkling (earned $50.0)
+
+
+Repairing...
+
+Mechanic Tristan repaired Motor54 and made it LikeNew (earned $10.0)
+
+Mechanic John repaired Car55 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+Salesperson Brett sold Clean LikeNew Pickup8 to Buyer for $67594.00 (earned $25.0)
+
+Satellite Radio added. Price increased by $1651.40
+Salesperson Brett sold Clean LikeNew SatRadio Car23 to Buyer for $34679.40 (earned $10.0)
+
+
+Ending...
+
+Isabele has been promoted to Sales
+
+Sales Zach has quit FNCD 
+
+Intern Sam has quit FNCD 

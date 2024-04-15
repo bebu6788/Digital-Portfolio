@@ -1,0 +1,2853 @@
+*** FNCD Day 1 ***
+Opening... (current budget $500000.00)
+
+Purchased Broken, Dirty Car for $5835.0
+
+Purchased Used, Dirty Car for $10032.8
+
+Purchased Used, Dirty Car for $9653.6
+
+Purchased LikeNew, Dirty Car for $17622.0
+
+Purchased LikeNew, Dirty Performance Car for $32476.0
+
+Purchased Broken, Clean Performance Car for $10180.0
+
+Purchased Used, Dirty Performance Car for $27724.8
+
+Purchased Used, Dirty Performance Car for $26347.2
+
+Purchased LikeNew, Dirty Pickup for $13799.0
+
+Purchased Used, Dirty Pickup for $16865.6
+
+Purchased Used, Clean Pickup for $15952.0
+
+Purchased Used, Dirty Pickup for $26897.6
+
+
+Washing...
+
+Intern Faith washed Pickup8 and made it Clean
+
+Intern Mary washed Pickup11 and made it Clean
+
+Intern Amanda washed PerfCar7 and made it Sparkling (earned $50.0)
+
+Intern Faith washed PerfCar4 and made it Clean
+
+Intern Mary washed Car1 and made it Clean
+
+Intern Amanda washed Pickup9 and made it Sparkling (earned $25.0)
+
+
+Repairing...
+
+Mechanic Jose repaired Pickup10 and made it LikeNew (earned $25.0)
+
+Mechanic Daquarius repaired Pickup11 and made it LikeNew (earned $25.0)
+
+Mechanic Jose repaired Car1 and made it LikeNew (earned $10.0)
+
+Mechanic Silva repaired PerfCar6 and made it LikeNew (earned $50.0)
+
+Mechanic Daquarius repaired Car0 and made it Used (earned $10.0)
+
+
+Selling...
+
+Salesperson Roger sold Clean LikeNew PerfCar4 to Buyer for $64952.0 (earned $50.0)
+
+Salesperson Roger sold Dirty LikeNew PerfCar6 to Buyer for $69312.0 (earned $50.0)
+
+Salesperson Hope sold Clean Used PerfCar7 to Buyer for $52694.4 (earned $50.0)
+
+
+Ending...
+
+Faith has been promoted to Sales
+
+Sales Roger has quit FNCD
+
+Intern Mary has quit FNCD
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+      Jose |           1 | $1000.00        | $35.00          | Working
+     Silva |           1 | $1000.00        | $50.00          | Working
+ Daquarius |           1 | $1000.00        | $35.00          | Working
+      Hope |           1 | $500.00         | $50.00          | Working
+       Cat |           1 | $500.00         | $0.00           | Working
+    Amanda |           1 | $100.00         | $75.00          | Working
+     Faith |           1 | $100.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Dirty | YES
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Dirty | YES
+     Pickup9 | $16865.60 | $33731.20   |      Used |   Sparkling | YES
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |       Dirty | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Clean | YES
+    PerfCar5 | $10180.00 | $20360.00   |    Broken |       Clean | YES
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Dirty | YES
+        Car2 | $9653.60  | $19307.20   |      Used |       Dirty | YES
+        Car0 | $5835.00  | $17505.00   |      Used |       Dirty | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+
+
+Total Remianing Budget: $468772.80
+Total Day Sales: $186958.40
+
+
+*** FNCD Day 2 ***
+Opening... (current budget $468772.80)
+
+Hired Intern Tristan
+
+Hired Intern Will
+
+Purchased Used, Clean Performance Car for $29194.4
+
+Purchased Used, Dirty Performance Car for $25747.2
+
+Purchased LikeNew, Dirty Performance Car for $30303.0
+
+
+Washing...
+
+Intern Amanda washed Pickup11 and made it Clean
+
+Intern Tristan washed Car0 and made it Clean
+
+Intern Will washed Pickup10 and made it Clean
+
+Intern Amanda washed Car2 and made it Clean
+
+Intern Tristan washed Car1 and made it Clean
+
+Intern Will washed Car3 and made it Clean
+
+
+Repairing...
+
+Mechanic Silva repaired PerfCar22 and made it LikeNew (earned $50.0)
+
+Mechanic Daquarius repaired Car2 and made it LikeNew (earned $10.0)
+
+Mechanic Jose repaired Pickup9 and made it LikeNew (earned $25.0)
+
+Mechanic Silva repaired PerfCar5 and made it Used (earned $50.0)
+
+Mechanic Daquarius repaired Car0 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+Salesperson Faith sold Dirty LikeNew PerfCar23 to Buyer for $60606.0 (earned $50.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+      Jose |           2 | $2000.00        | $60.00          | Working
+     Silva |           2 | $2000.00        | $150.00         | Working
+ Daquarius |           2 | $2000.00        | $55.00          | Working
+      Hope |           2 | $1000.00        | $50.00          | Working
+       Cat |           2 | $1000.00        | $0.00           | Working
+    Amanda |           2 | $200.00         | $75.00          | Working
+     Faith |           2 | $600.00         | $50.00          | Working
+   Tristan |           1 | $100.00         | $0.00           | Working
+      Will |           1 | $100.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | YES
+   PerfCar21 | $29194.40 | $58388.80   |      Used |       Dirty | YES
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Dirty | YES
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |       Clean | YES
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | YES
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Clean | YES
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | YES
+    PerfCar5 | $10180.00 | $30540.00   |      Used |       Dirty | YES
+        Car2 | $9653.60  | $24134.00   |   LikeNew |       Dirty | YES
+        Car0 | $5835.00  | $21881.25   |   LikeNew |       Dirty | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+
+
+Total Remianing Budget: $439334.20
+Total Day Sales: $60606.00
+
+
+*** FNCD Day 3 ***
+Opening... (current budget $439334.20)
+
+Purchased LikeNew, Dirty Performance Car for $30308.0
+
+
+Washing...
+
+Intern Amanda washed PerfCar22 and made it Clean
+
+Intern Tristan washed Car2 and made it Clean
+
+Intern Will washed PerfCar30 and made it Clean
+
+Intern Amanda washed PerfCar5 and made it Clean
+
+Intern Tristan washed PerfCar21 and made it Clean
+
+Intern Will washed Car0 and made it Clean
+
+
+Repairing...
+
+Mechanic Jose repaired PerfCar5 and made it LikeNew (earned $50.0)
+
+Mechanic Silva repaired PerfCar21 and made it LikeNew (earned $50.0)
+
+
+Selling...
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+      Jose |           3 | $3000.00        | $110.00         | Working
+     Silva |           3 | $3000.00        | $200.00         | Working
+ Daquarius |           3 | $3000.00        | $55.00          | Working
+      Hope |           3 | $1500.00        | $50.00          | Working
+       Cat |           3 | $1500.00        | $0.00           | Working
+    Amanda |           3 | $300.00         | $75.00          | Working
+     Faith |           3 | $1100.00        | $50.00          | Working
+   Tristan |           2 | $200.00         | $0.00           | Working
+      Will |           2 | $200.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | YES
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | YES
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | YES
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |       Dirty | YES
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | YES
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |       Clean | YES
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |       Dirty | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Clean | YES
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | YES
+        Car2 | $9653.60  | $24134.00   |   LikeNew |       Clean | YES
+        Car0 | $5835.00  | $21881.25   |   LikeNew |       Clean | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+
+
+Total Remianing Budget: $404226.20
+Total Day Sales: $0.00
+
+
+*** FNCD Day 4 ***
+Opening... (current budget $404226.20)
+
+
+Washing...
+
+Intern Amanda washed PerfCar21 and made it Clean
+
+Intern Tristan washed PerfCar5 and made it Clean
+
+Intern Will washed Pickup11 and made it Clean
+
+Intern Amanda washed PerfCar22 and made it Clean
+
+Intern Tristan washed Pickup9 and made it Clean
+
+Intern Will washed Car2 and made it Clean
+
+
+Repairing...
+
+
+Selling...
+
+
+Ending...
+
+Amanda has been promoted to Sales
+
+Sales Hope has quit FNCD
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+      Jose |           4 | $4000.00        | $110.00         | Working
+     Silva |           4 | $4000.00        | $200.00         | Working
+ Daquarius |           4 | $4000.00        | $55.00          | Working
+       Cat |           4 | $2000.00        | $0.00           | Working
+     Faith |           4 | $1600.00        | $50.00          | Working
+   Tristan |           3 | $300.00         | $0.00           | Working
+      Will |           3 | $300.00         | $0.00           | Working
+    Amanda |           4 | $400.00         | $75.00          | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | YES
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | YES
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | YES
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |       Clean | YES
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | YES
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |       Clean | YES
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |       Clean | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Clean | YES
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | YES
+        Car2 | $9653.60  | $24134.00   |   LikeNew |       Clean | YES
+        Car0 | $5835.00  | $21881.25   |   LikeNew |       Clean | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+
+
+Total Remianing Budget: $399426.20
+Total Day Sales: $0.00
+
+
+*** FNCD Day 5 ***
+Opening... (current budget $399426.20)
+
+Hired Intern Yin
+
+
+Washing...
+
+Intern Tristan washed Car0 and made it Sparkling (earned $10.0)
+
+Intern Will washed Pickup11 and made it Clean
+
+Intern Yin washed Pickup9 and made it Dirty
+
+Intern Tristan washed Car1 and made it Clean
+
+Intern Will washed Car2 and made it Clean
+
+Intern Yin washed Pickup8 and made it Clean
+
+
+Repairing...
+
+
+Selling...
+
+Salesperson Faith sold Clean LikeNew Pickup11 to Buyer for $67244.0 (earned $25.0)
+
+Salesperson Cat sold Clean LikeNew PerfCar22 to Buyer for $64368.0 (earned $50.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+      Jose |           5 | $5000.00        | $110.00         | Working
+     Silva |           5 | $5000.00        | $200.00         | Working
+ Daquarius |           5 | $5000.00        | $55.00          | Working
+       Cat |           5 | $2500.00        | $50.00          | Working
+     Faith |           5 | $2100.00        | $75.00          | Working
+   Tristan |           4 | $400.00         | $10.00          | Working
+      Will |           4 | $400.00         | $0.00           | Working
+    Amanda |           5 | $900.00         | $75.00          | Working
+       Yin |           1 | $100.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | YES
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |       Clean | YES
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Dirty | YES
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |       Clean | YES
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |       Clean | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Clean | YES
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | YES
+        Car2 | $9653.60  | $24134.00   |   LikeNew |       Clean | YES
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+
+
+Total Remianing Budget: $526238.20
+Total Day Sales: $131612.00
+
+
+*** FNCD Day 6 ***
+Opening... (current budget $526238.20)
+
+Purchased LikeNew, Dirty Performance Car for $31165.0
+
+Purchased Used, Sparkling Pickup for $27036.0
+
+
+Washing...
+
+Intern Tristan washed PerfCar49 and made it Clean
+
+Intern Will washed Pickup9 and made it Clean
+
+Intern Yin washed Car2 and made it Clean
+
+Intern Tristan washed PerfCar21 and made it Sparkling (earned $50.0)
+
+Intern Will washed Pickup10 and made it Sparkling (earned $25.0)
+
+Intern Yin washed PerfCar5 and made it Sparkling (earned $50.0)
+
+
+Repairing...
+
+
+Selling...
+
+Salesperson Cat sold Clean LikeNew Car3 to Buyer for $35244.0 (earned $10.0)
+
+Salesperson Faith sold Clean Used Pickup50 to Buyer for $54072.0 (earned $25.0)
+
+Salesperson Amanda sold Clean LikeNew Car1 to Buyer for $25082.0 (earned $10.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+      Jose |           6 | $6000.00        | $110.00         | Working
+     Silva |           6 | $6000.00        | $200.00         | Working
+ Daquarius |           6 | $6000.00        | $55.00          | Working
+       Cat |           6 | $3000.00        | $60.00          | Working
+     Faith |           6 | $2600.00        | $100.00         | Working
+   Tristan |           5 | $500.00         | $60.00          | Working
+      Will |           5 | $500.00         | $25.00          | Working
+    Amanda |           6 | $1400.00        | $85.00          | Working
+       Yin |           2 | $200.00         | $50.00          | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | YES
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | YES
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | YES
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | YES
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Clean | YES
+        Car2 | $9653.60  | $24134.00   |   LikeNew |       Clean | YES
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+
+
+Total Remianing Budget: $577635.20
+Total Day Sales: $114398.00
+
+
+*** FNCD Day 7 ***
+
+FNCD is closed on Sundays! :)
+Come back Tomorrow!
+
+*** FNCD Day 8 ***
+Opening... (current budget $577635.20)
+
+Purchased Used, Clean Car for $9708.0
+
+Purchased Broken, Sparkling Car for $5431.5
+
+Purchased Used, Clean Pickup for $19457.6
+
+
+Washing...
+
+Intern Tristan washed Pickup62 and made it Clean
+
+Intern Will washed PerfCar30 and made it Clean
+
+Intern Yin washed Pickup8 and made it Clean
+
+Intern Tristan washed Car2 and made it Sparkling (earned $10.0)
+
+Intern Will washed PerfCar49 and made it Clean
+
+Intern Yin washed Car60 and made it Sparkling (earned $10.0)
+
+
+Repairing...
+
+Mechanic Jose repaired Pickup62 and made it LikeNew (earned $25.0)
+
+Mechanic Silva repaired Car61 and made it Used (earned $10.0)
+
+Mechanic Daquarius repaired Car60 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+      Jose |           7 | $7000.00        | $135.00         | Working
+     Silva |           7 | $7000.00        | $210.00         | Working
+ Daquarius |           7 | $7000.00        | $65.00          | Working
+       Cat |           7 | $3500.00        | $60.00          | Working
+     Faith |           7 | $3100.00        | $100.00         | Working
+   Tristan |           6 | $600.00         | $70.00          | Working
+      Will |           6 | $600.00         | $25.00          | Working
+    Amanda |           7 | $1900.00        | $85.00          | Working
+       Yin |           3 | $300.00         | $60.00          | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | YES
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | YES
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | YES
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | YES
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | YES
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Dirty | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Clean | YES
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | YES
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | YES
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | YES
+       Car61 | $5431.50  | $16294.50   |      Used |       Clean | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+
+
+Total Remianing Budget: $538238.10
+Total Day Sales: $0.00
+
+
+*** FNCD Day 9 ***
+Opening... (current budget $538238.10)
+
+
+Washing...
+
+Intern Tristan washed Pickup62 and made it Dirty
+
+Intern Will washed Pickup9 and made it Clean
+
+Intern Yin washed PerfCar30 and made it Clean
+
+Intern Tristan washed Car61 and made it Clean
+
+Intern Will washed PerfCar49 and made it Clean
+
+Intern Yin washed Pickup8 and made it Clean
+
+
+Repairing...
+
+Mechanic Jose repaired Car61 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+Salesperson Cat sold Sparkling LikeNew PerfCar21 to Buyer for $72986.0 (earned $50.0)
+
+Salesperson Faith sold Clean LikeNew Pickup9 to Buyer for $42164.0 (earned $25.0)
+
+
+Ending...
+
+Tristan has been promoted to Sales
+
+Sales Cat has quit FNCD
+
+Will has been promoted to Mech
+
+Mech Jose has quit FNCD
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+     Silva |           8 | $8000.00        | $210.00         | Working
+ Daquarius |           8 | $8000.00        | $65.00          | Working
+     Faith |           8 | $3600.00        | $125.00         | Working
+    Amanda |           8 | $2400.00        | $85.00          | Working
+       Yin |           4 | $400.00         | $60.00          | Working
+   Tristan |           7 | $700.00         | $70.00          | Working
+      Will |           7 | $700.00         | $25.00          | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | YES
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | YES
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | YES
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Dirty | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Clean | YES
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | YES
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | YES
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |       Dirty | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+
+
+Total Remianing Budget: $648588.10
+Total Day Sales: $115150.00
+
+
+*** FNCD Day 10 ***
+Opening... (current budget $648588.10)
+
+Hired Intern Violet
+
+Hired Intern Holly
+
+Purchased LikeNew, Clean Performance Car for $31901.0
+
+Purchased LikeNew, Dirty Pickup for $27086.0
+
+
+Washing...
+
+Intern Yin washed Car61 and made it Clean
+
+Intern Violet washed Pickup70 and made it Clean
+
+Intern Holly washed Pickup62 and made it Clean
+
+Intern Yin washed PerfCar30 and made it Clean
+
+Intern Violet washed PerfCar49 and made it Clean
+
+Intern Holly washed Pickup8 and made it Clean
+
+
+Repairing...
+
+
+Selling...
+
+Salesperson Amanda sold Clean LikeNew Car60 to Buyer for $24270.0 (earned $10.0)
+
+Salesperson Amanda sold Sparkling LikeNew Car2 to Buyer for $24134.0 (earned $10.0)
+
+Salesperson Tristan sold Sparkling LikeNew Car0 to Buyer for $21881.25 (earned $10.0)
+
+
+Ending...
+
+Yin has been promoted to Mech
+
+Mech Silva has quit FNCD
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+ Daquarius |           9 | $9000.00        | $65.00          | Working
+     Faith |           9 | $4100.00        | $125.00         | Working
+    Amanda |           9 | $2900.00        | $105.00         | Working
+   Tristan |           8 | $1200.00        | $80.00          | Working
+      Will |           8 | $1700.00        | $25.00          | Working
+    Violet |           1 | $100.00         | $0.00           | Working
+     Holly |           1 | $100.00         | $0.00           | Working
+       Yin |           5 | $500.00         | $60.00          | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | YES
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | YES
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | YES
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | YES
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | YES
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Clean | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |       Clean | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+
+
+Total Remianing Budget: $655086.35
+Total Day Sales: $70285.25
+
+
+*** FNCD Day 11 ***
+Opening... (current budget $655086.35)
+
+Hired Intern Jeff
+
+Purchased Used, Dirty Car for $12947.2
+
+Purchased Broken, Dirty Car for $7495.0
+
+Purchased LikeNew, Clean Car for $12423.0
+
+
+Washing...
+
+Intern Violet washed Car89 and made it Dirty
+
+Intern Holly washed Car90 and made it Clean
+
+Intern Jeff washed Pickup70 and made it Clean
+
+Intern Violet washed Car91 and made it Sparkling (earned $10.0)
+
+Intern Holly washed Pickup8 and made it Dirty
+
+Intern Jeff washed PerfCar30 and made it Clean
+
+
+Repairing...
+
+Mechanic Daquarius repaired Car90 and made it Used (earned $10.0)
+
+
+Selling...
+
+Salesperson Tristan sold Clean LikeNew Pickup70 to Buyer for $54172.0 (earned $25.0)
+
+Salesperson Tristan sold Clean LikeNew PerfCar69 to Buyer for $63802.0 (earned $50.0)
+
+Salesperson Amanda sold Clean LikeNew PerfCar49 to Buyer for $62330.0 (earned $50.0)
+
+Salesperson Amanda sold Clean LikeNew PerfCar30 to Buyer for $60616.0 (earned $50.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+ Daquarius |          10 | $10000.00       | $75.00          | Working
+     Faith |          10 | $4600.00        | $125.00         | Working
+    Amanda |          10 | $3400.00        | $205.00         | Working
+   Tristan |           9 | $1700.00        | $155.00         | Working
+      Will |           9 | $2700.00        | $25.00          | Working
+    Violet |           2 | $200.00         | $10.00          | Working
+     Holly |           2 | $200.00         | $0.00           | Working
+       Yin |           6 | $1500.00        | $60.00          | Working
+      Jeff |           1 | $100.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | YES
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Dirty | YES
+       Car89 | $12947.20 | $25894.40   |      Used |       Dirty | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |       Clean | YES
+       Car90 | $7495.00  | $22485.00   |      Used |       Dirty | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+
+
+Total Remianing Budget: $858341.15
+Total Day Sales: $240920.00
+
+
+*** FNCD Day 12 ***
+Opening... (current budget $858341.15)
+
+Purchased Used, Dirty Performance Car for $18490.4
+
+Purchased LikeNew, Dirty Performance Car for $27285.0
+
+Purchased LikeNew, Dirty Performance Car for $22589.0
+
+Purchased Used, Dirty Pickup for $11873.6
+
+
+Washing...
+
+Intern Violet washed Pickup107 and made it Clean
+
+Intern Holly washed PerfCar105 and made it Sparkling (earned $50.0)
+
+Intern Jeff washed PerfCar106 and made it Clean
+
+Intern Violet washed PerfCar104 and made it Clean
+
+Intern Holly washed Pickup8 and made it Clean
+
+Intern Jeff washed Car89 and made it Clean
+
+
+Repairing...
+
+Mechanic Daquarius repaired PerfCar104 and made it LikeNew (earned $50.0)
+
+
+Selling...
+
+Salesperson Faith sold Clean LikeNew Pickup62 to Buyer for $48644.0 (earned $25.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+ Daquarius |          11 | $11000.00       | $125.00         | Working
+     Faith |          11 | $5100.00        | $150.00         | Working
+    Amanda |          11 | $3900.00        | $205.00         | Working
+   Tristan |          10 | $2200.00        | $155.00         | Working
+      Will |          10 | $3700.00        | $25.00          | Working
+    Violet |           3 | $300.00         | $10.00          | Working
+     Holly |           3 | $300.00         | $50.00          | Working
+       Yin |           7 | $2500.00        | $60.00          | Working
+      Jeff |           2 | $200.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | YES
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |       Clean | YES
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |       Dirty | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Clean | YES
+       Car89 | $12947.20 | $25894.40   |      Used |       Dirty | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+   Pickup107 | $11873.60 | $23747.20   |      Used |       Dirty | YES
+       Car90 | $7495.00  | $22485.00   |      Used |       Dirty | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |       Clean | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+
+
+Total Remianing Budget: $821947.15
+Total Day Sales: $48644.00
+
+
+*** FNCD Day 13 ***
+Opening... (current budget $821947.15)
+
+Purchased Broken, Dirty Pickup for $10474.0
+
+
+Washing...
+
+Intern Violet washed Pickup123 and made it Clean
+
+Intern Holly washed Car89 and made it Clean
+
+Intern Jeff washed Pickup107 and made it Dirty
+
+Intern Violet washed PerfCar104 and made it Clean
+
+Intern Holly washed Car90 and made it Clean
+
+Intern Jeff washed PerfCar106 and made it Sparkling (earned $50.0)
+
+
+Repairing...
+
+Mechanic Will repaired Pickup107 and made it LikeNew (earned $25.0)
+
+Mechanic Yin repaired Car90 and made it LikeNew (earned $10.0)
+
+Mechanic Daquarius repaired Pickup123 and made it Used (earned $25.0)
+
+
+Selling...
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+ Daquarius |          12 | $12000.00       | $150.00         | Working
+     Faith |          12 | $5600.00        | $150.00         | Working
+    Amanda |          12 | $4400.00        | $205.00         | Working
+   Tristan |          11 | $2700.00        | $155.00         | Working
+      Will |          11 | $4700.00        | $50.00          | Working
+    Violet |           4 | $400.00         | $10.00          | Working
+     Holly |           4 | $400.00         | $50.00          | Working
+       Yin |           8 | $3500.00        | $70.00          | Working
+      Jeff |           3 | $300.00         | $50.00          | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | YES
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |       Clean | YES
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | YES
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Clean | YES
+       Car89 | $12947.20 | $25894.40   |      Used |       Dirty | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |       Dirty | YES
+       Car90 | $7495.00  | $28106.25   |   LikeNew |       Dirty | YES
+   Pickup123 | $10474.00 | $31422.00   |      Used |       Dirty | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |       Clean | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+
+
+Total Remianing Budget: $806673.15
+Total Day Sales: $0.00
+
+
+*** FNCD Day 14 ***
+
+FNCD is closed on Sundays! :)
+Come back Tomorrow!
+
+*** FNCD Day 15 ***
+Opening... (current budget $806673.15)
+
+
+Washing...
+
+Intern Violet washed Pickup123 and made it Clean
+
+Intern Holly washed Pickup107 and made it Clean
+
+Intern Jeff washed Car89 and made it Clean
+
+Intern Violet washed Car90 and made it Clean
+
+Intern Holly washed PerfCar104 and made it Sparkling (earned $50.0)
+
+Intern Jeff washed Car61 and made it Clean
+
+
+Repairing...
+
+Mechanic Daquarius repaired Car89 and made it LikeNew (earned $10.0)
+
+Mechanic Will repaired Pickup123 and made it LikeNew (earned $25.0)
+
+
+Selling...
+
+Salesperson Faith sold Sparkling LikeNew Pickup10 to Buyer for $39880.0 (earned $25.0)
+
+Salesperson Amanda sold Sparkling LikeNew PerfCar105 to Buyer for $54570.0 (earned $50.0)
+
+
+Ending...
+
+Violet has been promoted to Mech
+
+Mech Daquarius has quit FNCD
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+     Faith |          13 | $6100.00        | $175.00         | Working
+    Amanda |          13 | $4900.00        | $255.00         | Working
+   Tristan |          12 | $3200.00        | $155.00         | Working
+      Will |          12 | $5700.00        | $75.00          | Working
+     Holly |           5 | $500.00         | $100.00         | Working
+       Yin |           9 | $4500.00        | $70.00          | Working
+      Jeff |           4 | $400.00         | $50.00          | Working
+    Violet |           5 | $500.00         | $10.00          | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | YES
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |       Clean | YES
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Dirty | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |       Clean | YES
+       Car90 | $7495.00  | $28106.25   |   LikeNew |       Clean | YES
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Dirty | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |       Clean | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+
+
+Total Remianing Budget: $896323.15
+Total Day Sales: $94450.00
+
+
+*** FNCD Day 16 ***
+Opening... (current budget $896323.15)
+
+Hired Intern Eliza
+
+Purchased LikeNew, Dirty Performance Car for $23214.0
+
+Purchased Broken, Clean Pickup for $8983.0
+
+
+Washing...
+
+Intern Holly washed PerfCar142 and made it Clean
+
+Intern Jeff washed Car89 and made it Clean
+
+Intern Eliza washed Pickup123 and made it Dirty
+
+Intern Holly washed Pickup143 and made it Sparkling (earned $25.0)
+
+Intern Jeff washed Pickup8 and made it Sparkling (earned $25.0)
+
+Intern Eliza washed Car61 and made it Clean
+
+
+Repairing...
+
+Mechanic Will repaired Pickup143 and made it Used (earned $25.0)
+
+
+Selling...
+
+
+Ending...
+
+Intern Holly has quit FNCD
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+     Faith |          14 | $6600.00        | $175.00         | Working
+    Amanda |          14 | $5400.00        | $255.00         | Working
+   Tristan |          13 | $3700.00        | $155.00         | Working
+      Will |          13 | $6700.00        | $100.00         | Working
+       Yin |          10 | $5500.00        | $70.00          | Working
+      Jeff |           5 | $500.00         | $75.00          | Working
+    Violet |           6 | $1500.00        | $10.00          | Working
+     Eliza |           1 | $100.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | YES
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | YES
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | YES
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Dirty | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | YES
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |       Clean | YES
+       Car90 | $7495.00  | $28106.25   |   LikeNew |       Clean | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |       Clean | YES
+   Pickup143 | $8983.00  | $26949.00   |      Used |       Clean | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+
+
+Total Remianing Budget: $859326.15
+Total Day Sales: $0.00
+
+
+*** FNCD Day 17 ***
+Opening... (current budget $859326.15)
+
+Hired Intern Peter
+
+
+Washing...
+
+Intern Jeff washed Pickup123 and made it Clean
+
+Intern Eliza washed Car89 and made it Clean
+
+Intern Peter washed Pickup107 and made it Sparkling (earned $25.0)
+
+Intern Jeff washed Car61 and made it Sparkling (earned $10.0)
+
+Intern Eliza washed Car90 and made it Clean
+
+Intern Peter washed Pickup143 and made it Clean
+
+
+Repairing...
+
+
+Selling...
+
+Salesperson Tristan sold Clean LikeNew Pickup123 to Buyer for $39277.5 (earned $25.0)
+
+Salesperson Tristan sold Sparkling LikeNew Pickup107 to Buyer for $29684.0 (earned $25.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+     Faith |          15 | $7100.00        | $175.00         | Working
+    Amanda |          15 | $5900.00        | $255.00         | Working
+   Tristan |          14 | $4200.00        | $205.00         | Working
+      Will |          14 | $7700.00        | $100.00         | Working
+       Yin |          11 | $6500.00        | $70.00          | Working
+      Jeff |           6 | $600.00         | $85.00          | Working
+    Violet |           7 | $2500.00        | $10.00          | Working
+     Eliza |           2 | $200.00         | $0.00           | Working
+     Peter |           1 | $100.00         | $25.00          | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | YES
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | YES
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | YES
+       Car90 | $7495.00  | $28106.25   |   LikeNew |       Clean | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |   Sparkling | YES
+   Pickup143 | $8983.00  | $26949.00   |      Used |       Dirty | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Clean | NO
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |   Sparkling | NO
+
+
+Total Remianing Budget: $923487.65
+Total Day Sales: $68961.50
+
+
+*** FNCD Day 18 ***
+Opening... (current budget $923487.65)
+
+Purchased LikeNew, Dirty Pickup for $18440.0
+
+Purchased Used, Clean Pickup for $31748.8
+
+
+Washing...
+
+Intern Jeff washed Pickup143 and made it Dirty
+
+Intern Eliza washed Pickup162 and made it Sparkling (earned $25.0)
+
+Intern Peter washed Pickup163 and made it Clean
+
+Intern Jeff washed Car90 and made it Sparkling (earned $10.0)
+
+Intern Eliza washed Car89 and made it Clean
+
+Intern Peter washed PerfCar142 and made it Clean
+
+
+Repairing...
+
+Mechanic Will repaired Pickup143 and made it LikeNew (earned $25.0)
+
+
+Selling...
+
+Salesperson Tristan sold Clean LikeNew Car89 to Buyer for $32368.0 (earned $10.0)
+
+Salesperson Faith sold Clean LikeNew PerfCar142 to Buyer for $46428.0 (earned $50.0)
+
+Salesperson Faith sold Sparkling LikeNew Car90 to Buyer for $28106.25 (earned $10.0)
+
+
+Ending...
+
+Jeff has been promoted to Sales
+
+Sales Faith has quit FNCD
+
+Intern Eliza has quit FNCD
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+    Amanda |          16 | $6400.00        | $255.00         | Working
+   Tristan |          15 | $4700.00        | $215.00         | Working
+      Will |          15 | $8700.00        | $125.00         | Working
+       Yin |          12 | $7500.00        | $70.00          | Working
+    Violet |           8 | $3500.00        | $10.00          | Working
+     Peter |           2 | $200.00         | $25.00          | Working
+      Jeff |           7 | $700.00         | $95.00          | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+     Faith |          16 | $7600.00        | $235.00         | Quit
+     Eliza |           3 | $300.00         | $25.00          | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+   Pickup163 | $31748.80 | $63497.60   |      Used |       Dirty | YES
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | YES
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+   Pickup162 | $18440.00 | $36880.00   |   LikeNew |   Sparkling | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | YES
+   Pickup143 | $8983.00  | $33686.25   |   LikeNew |       Dirty | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |   Sparkling | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Clean | NO
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |   Sparkling | NO
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | NO
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | NO
+       Car90 | $7495.00  | $28106.25   |   LikeNew |   Sparkling | NO
+
+
+Total Remianing Budget: $975401.10
+Total Day Sales: $106902.25
+
+
+*** FNCD Day 19 ***
+Opening... (current budget $975401.10)
+
+Hired Intern Hannah
+
+Hired Intern Roxie
+
+Purchased Used, Clean Car for $13550.4
+
+Purchased Broken, Clean Car for $9561.0
+
+Purchased Used, Dirty Performance Car for $17760.8
+
+
+Washing...
+
+Intern Peter washed PerfCar178 and made it Dirty
+
+Intern Hannah washed Pickup163 and made it Clean
+
+Intern Roxie washed Pickup143 and made it Clean
+
+Intern Peter washed Car177 and made it Sparkling (earned $10.0)
+
+Intern Hannah washed Car176 and made it Clean
+
+
+Repairing...
+
+Mechanic Will repaired Car177 and made it Used (earned $10.0)
+
+Mechanic Yin repaired Pickup163 and made it LikeNew (earned $25.0)
+
+Mechanic Violet repaired PerfCar178 and made it LikeNew (earned $50.0)
+
+
+Selling...
+
+Salesperson Jeff sold Dirty LikeNew Pickup163 to Buyer for $79372.0 (earned $25.0)
+
+Salesperson Amanda sold Sparkling LikeNew Pickup162 to Buyer for $36880.0 (earned $25.0)
+
+Salesperson Tristan sold Dirty Used Car176 to Buyer for $27100.8 (earned $10.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+    Amanda |          17 | $6900.00        | $280.00         | Working
+   Tristan |          16 | $5200.00        | $225.00         | Working
+      Will |          16 | $9700.00        | $135.00         | Working
+       Yin |          13 | $8500.00        | $95.00          | Working
+    Violet |           9 | $4500.00        | $60.00          | Working
+     Peter |           3 | $300.00         | $35.00          | Working
+      Jeff |           8 | $1200.00        | $120.00         | Working
+    Hannah |           1 | $100.00         | $0.00           | Working
+     Roxie |           1 | $100.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+     Faith |          16 | $7600.00        | $235.00         | Quit
+     Eliza |           3 | $300.00         | $25.00          | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | YES
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+  PerfCar178 | $17760.80 | $44402.00   |   LikeNew |       Dirty | YES
+   Pickup143 | $8983.00  | $33686.25   |   LikeNew |       Clean | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |   Sparkling | YES
+      Car177 | $9561.00  | $28683.00   |      Used |       Clean | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Clean | NO
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |   Sparkling | NO
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | NO
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | NO
+       Car90 | $7495.00  | $28106.25   |   LikeNew |   Sparkling | NO
+   Pickup163 | $31748.80 | $79372.00   |   LikeNew |       Dirty | NO
+   Pickup162 | $18440.00 | $36880.00   |   LikeNew |   Sparkling | NO
+      Car176 | $13550.40 | $27100.80   |      Used |       Dirty | NO
+
+
+Total Remianing Budget: $1073081.70
+Total Day Sales: $143352.80
+
+
+*** FNCD Day 20 ***
+Opening... (current budget $1073081.70)
+
+Purchased Used, Dirty Car for $12940.0
+
+Purchased Broken, Clean Pickup for $15115.0
+
+Purchased LikeNew, Clean Pickup for $31771.0
+
+
+Washing...
+
+Intern Peter washed Car188 and made it Clean
+
+Intern Hannah washed PerfCar178 and made it Clean
+
+Intern Roxie washed Car177 and made it Clean
+
+Intern Peter washed Pickup143 and made it Sparkling (earned $25.0)
+
+Intern Hannah washed Pickup189 and made it Clean
+
+Intern Roxie washed Pickup190 and made it Clean
+
+
+Repairing...
+
+Mechanic Will repaired Car188 and made it LikeNew (earned $10.0)
+
+Mechanic Yin repaired Car177 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+Salesperson Amanda sold Sparkling LikeNew PerfCar104 to Buyer for $46226.0 (earned $50.0)
+
+Salesperson Amanda sold Dirty LikeNew Car177 to Buyer for $35853.75 (earned $10.0)
+
+Salesperson Jeff sold Clean LikeNew Pickup190 to Buyer for $63542.0 (earned $25.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+    Amanda |          18 | $7400.00        | $340.00         | Working
+   Tristan |          17 | $5700.00        | $225.00         | Working
+      Will |          17 | $10700.00       | $145.00         | Working
+       Yin |          14 | $9500.00        | $105.00         | Working
+    Violet |          10 | $5500.00        | $60.00          | Working
+     Peter |           4 | $400.00         | $60.00          | Working
+      Jeff |           9 | $1700.00        | $145.00         | Working
+    Hannah |           2 | $200.00         | $0.00           | Working
+     Roxie |           2 | $200.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+     Faith |          16 | $7600.00        | $235.00         | Quit
+     Eliza |           3 | $300.00         | $25.00          | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | YES
+  PerfCar178 | $17760.80 | $44402.00   |   LikeNew |       Clean | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+   Pickup143 | $8983.00  | $33686.25   |   LikeNew |   Sparkling | YES
+   Pickup189 | $15115.00 | $30230.00   |    Broken |       Dirty | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | YES
+      Car188 | $12940.00 | $32350.00   |   LikeNew |       Dirty | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |   Sparkling | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Clean | NO
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |   Sparkling | NO
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | NO
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | NO
+       Car90 | $7495.00  | $28106.25   |   LikeNew |   Sparkling | NO
+   Pickup163 | $31748.80 | $79372.00   |   LikeNew |       Dirty | NO
+   Pickup162 | $18440.00 | $36880.00   |   LikeNew |   Sparkling | NO
+      Car176 | $13550.40 | $27100.80   |      Used |       Dirty | NO
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | NO
+      Car177 | $9561.00  | $35853.75   |   LikeNew |       Dirty | NO
+   Pickup190 | $31771.00 | $63542.00   |   LikeNew |       Clean | NO
+
+
+Total Remianing Budget: $1154077.45
+Total Day Sales: $145621.75
+
+
+*** FNCD Day 21 ***
+
+FNCD is closed on Sundays! :)
+Come back Tomorrow!
+
+*** FNCD Day 22 ***
+Opening... (current budget $1154077.45)
+
+Purchased LikeNew, Sparkling Car for $16290.0
+
+Purchased Used, Clean Performance Car for $26148.8
+
+Purchased LikeNew, Clean Pickup for $15698.0
+
+
+Washing...
+
+Intern Peter washed Pickup189 and made it Sparkling (earned $25.0)
+
+Intern Hannah washed Car188 and made it Clean
+
+Intern Roxie washed PerfCar178 and made it Clean
+
+Intern Peter washed PerfCar213 and made it Clean
+
+Intern Hannah washed Pickup214 and made it Clean
+
+
+Repairing...
+
+Mechanic Will repaired Pickup189 and made it Used (earned $25.0)
+
+
+Selling...
+
+Salesperson Amanda sold Sparkling LikeNew Pickup143 to Buyer for $33686.25 (earned $25.0)
+
+Salesperson Jeff sold Sparkling LikeNew Car212 to Buyer for $32580.0 (earned $10.0)
+
+Salesperson Amanda sold Dirty Used PerfCar213 to Buyer for $52297.6 (earned $50.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+    Amanda |          19 | $7900.00        | $415.00         | Working
+   Tristan |          18 | $6200.00        | $225.00         | Working
+      Will |          18 | $11700.00       | $170.00         | Working
+       Yin |          15 | $10500.00       | $105.00         | Working
+    Violet |          11 | $6500.00        | $60.00          | Working
+     Peter |           5 | $500.00         | $85.00          | Working
+      Jeff |          10 | $2200.00        | $155.00         | Working
+    Hannah |           3 | $300.00         | $0.00           | Working
+     Roxie |           3 | $300.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+     Faith |          16 | $7600.00        | $235.00         | Quit
+     Eliza |           3 | $300.00         | $25.00          | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | YES
+  PerfCar178 | $17760.80 | $44402.00   |   LikeNew |       Clean | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+      Car188 | $12940.00 | $32350.00   |   LikeNew |       Clean | YES
+   Pickup214 | $15698.00 | $31396.00   |   LikeNew |       Clean | YES
+   Pickup189 | $15115.00 | $45345.00   |      Used |       Clean | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |   Sparkling | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Clean | NO
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |   Sparkling | NO
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | NO
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | NO
+       Car90 | $7495.00  | $28106.25   |   LikeNew |   Sparkling | NO
+   Pickup163 | $31748.80 | $79372.00   |   LikeNew |       Dirty | NO
+   Pickup162 | $18440.00 | $36880.00   |   LikeNew |   Sparkling | NO
+      Car176 | $13550.40 | $27100.80   |      Used |       Dirty | NO
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | NO
+      Car177 | $9561.00  | $35853.75   |   LikeNew |       Dirty | NO
+   Pickup190 | $31771.00 | $63542.00   |   LikeNew |       Clean | NO
+   Pickup143 | $8983.00  | $33686.25   |   LikeNew |   Sparkling | NO
+      Car212 | $16290.00 | $32580.00   |   LikeNew |   Sparkling | NO
+  PerfCar213 | $26148.80 | $52297.60   |      Used |       Dirty | NO
+
+
+Total Remianing Budget: $1209704.50
+Total Day Sales: $118563.85
+
+
+*** FNCD Day 23 ***
+Opening... (current budget $1209704.50)
+
+Purchased Used, Clean Car for $9759.2
+
+Purchased LikeNew, Clean Performance Car for $38746.0
+
+Purchased Broken, Dirty Pickup for $8725.0
+
+
+Washing...
+
+Intern Peter washed Pickup229 and made it Clean
+
+Intern Hannah washed PerfCar178 and made it Clean
+
+Intern Roxie washed Pickup189 and made it Sparkling (earned $25.0)
+
+Intern Peter washed Car188 and made it Dirty
+
+Intern Hannah washed Pickup214 and made it Clean
+
+Intern Roxie washed PerfCar228 and made it Sparkling (earned $50.0)
+
+
+Repairing...
+
+Mechanic Will repaired Car227 and made it LikeNew (earned $10.0)
+
+Mechanic Yin repaired Pickup189 and made it LikeNew (earned $25.0)
+
+Mechanic Violet repaired Pickup229 and made it Used (earned $25.0)
+
+
+Selling...
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+    Amanda |          20 | $8400.00        | $415.00         | Working
+   Tristan |          19 | $6700.00        | $225.00         | Working
+      Will |          19 | $12700.00       | $180.00         | Working
+       Yin |          16 | $11500.00       | $130.00         | Working
+    Violet |          12 | $7500.00        | $85.00          | Working
+     Peter |           6 | $600.00         | $85.00          | Working
+      Jeff |          11 | $2700.00        | $155.00         | Working
+    Hannah |           4 | $400.00         | $0.00           | Working
+     Roxie |           4 | $400.00         | $75.00          | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+     Faith |          16 | $7600.00        | $235.00         | Quit
+     Eliza |           3 | $300.00         | $25.00          | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+  PerfCar228 | $38746.00 | $77492.00   |   LikeNew |   Sparkling | YES
+   Pickup189 | $15115.00 | $56681.25   |   LikeNew |       Clean | YES
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | YES
+  PerfCar178 | $17760.80 | $44402.00   |   LikeNew |       Clean | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+      Car188 | $12940.00 | $32350.00   |   LikeNew |       Dirty | YES
+   Pickup214 | $15698.00 | $31396.00   |   LikeNew |       Clean | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |   Sparkling | YES
+      Car227 | $9759.20  | $24398.00   |   LikeNew |       Dirty | YES
+   Pickup229 | $8725.00  | $26175.00   |      Used |       Dirty | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Clean | NO
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |   Sparkling | NO
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | NO
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | NO
+       Car90 | $7495.00  | $28106.25   |   LikeNew |   Sparkling | NO
+   Pickup163 | $31748.80 | $79372.00   |   LikeNew |       Dirty | NO
+   Pickup162 | $18440.00 | $36880.00   |   LikeNew |   Sparkling | NO
+      Car176 | $13550.40 | $27100.80   |      Used |       Dirty | NO
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | NO
+      Car177 | $9561.00  | $35853.75   |   LikeNew |       Dirty | NO
+   Pickup190 | $31771.00 | $63542.00   |   LikeNew |       Clean | NO
+   Pickup143 | $8983.00  | $33686.25   |   LikeNew |   Sparkling | NO
+      Car212 | $16290.00 | $32580.00   |   LikeNew |   Sparkling | NO
+  PerfCar213 | $26148.80 | $52297.60   |      Used |       Dirty | NO
+
+
+Total Remianing Budget: $1147674.30
+Total Day Sales: $0.00
+
+
+*** FNCD Day 24 ***
+Opening... (current budget $1147674.30)
+
+
+Washing...
+
+Intern Peter washed Pickup229 and made it Dirty
+
+Intern Hannah washed Car227 and made it Clean
+
+Intern Roxie washed Car188 and made it Sparkling (earned $10.0)
+
+Intern Peter washed Pickup189 and made it Sparkling (earned $25.0)
+
+Intern Hannah washed PerfCar178 and made it Clean
+
+Intern Roxie washed Pickup214 and made it Sparkling (earned $25.0)
+
+
+Repairing...
+
+
+Selling...
+
+Salesperson Jeff sold Sparkling LikeNew PerfCar228 to Buyer for $77492.0 (earned $50.0)
+
+Salesperson Jeff sold Sparkling LikeNew PerfCar106 to Buyer for $45178.0 (earned $50.0)
+
+
+Ending...
+
+Peter has been promoted to Mech
+
+Mech Will has quit FNCD
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+    Amanda |          21 | $8900.00        | $415.00         | Working
+   Tristan |          20 | $7200.00        | $225.00         | Working
+       Yin |          17 | $12500.00       | $130.00         | Working
+    Violet |          13 | $8500.00        | $85.00          | Working
+      Jeff |          12 | $3200.00        | $255.00         | Working
+    Hannah |           5 | $500.00         | $0.00           | Working
+     Roxie |           5 | $500.00         | $110.00         | Working
+     Peter |           7 | $700.00         | $110.00         | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+     Faith |          16 | $7600.00        | $235.00         | Quit
+     Eliza |           3 | $300.00         | $25.00          | Quit
+      Will |          20 | $13700.00       | $180.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+   Pickup189 | $15115.00 | $56681.25   |   LikeNew |   Sparkling | YES
+  PerfCar178 | $17760.80 | $44402.00   |   LikeNew |       Clean | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+      Car188 | $12940.00 | $32350.00   |   LikeNew |   Sparkling | YES
+   Pickup214 | $15698.00 | $31396.00   |   LikeNew |   Sparkling | YES
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |   Sparkling | YES
+      Car227 | $9759.20  | $24398.00   |   LikeNew |       Clean | YES
+   Pickup229 | $8725.00  | $26175.00   |      Used |       Dirty | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Clean | NO
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |   Sparkling | NO
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | NO
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | NO
+       Car90 | $7495.00  | $28106.25   |   LikeNew |   Sparkling | NO
+   Pickup163 | $31748.80 | $79372.00   |   LikeNew |       Dirty | NO
+   Pickup162 | $18440.00 | $36880.00   |   LikeNew |   Sparkling | NO
+      Car176 | $13550.40 | $27100.80   |      Used |       Dirty | NO
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | NO
+      Car177 | $9561.00  | $35853.75   |   LikeNew |       Dirty | NO
+   Pickup190 | $31771.00 | $63542.00   |   LikeNew |       Clean | NO
+   Pickup143 | $8983.00  | $33686.25   |   LikeNew |   Sparkling | NO
+      Car212 | $16290.00 | $32580.00   |   LikeNew |   Sparkling | NO
+  PerfCar213 | $26148.80 | $52297.60   |      Used |       Dirty | NO
+  PerfCar228 | $38746.00 | $77492.00   |   LikeNew |   Sparkling | NO
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | NO
+
+
+Total Remianing Budget: $1265544.30
+Total Day Sales: $122670.00
+
+
+*** FNCD Day 25 ***
+Opening... (current budget $1265544.30)
+
+Hired Intern Isabele
+
+Purchased Used, Clean Performance Car for $23388.8
+
+Purchased Used, Dirty Performance Car for $28217.6
+
+
+Washing...
+
+Intern Hannah washed Pickup229 and made it Clean
+
+Intern Roxie washed PerfCar249 and made it Clean
+
+Intern Isabele washed PerfCar178 and made it Clean
+
+Intern Hannah washed Car227 and made it Clean
+
+Intern Roxie washed PerfCar248 and made it Clean
+
+
+Repairing...
+
+Mechanic Yin repaired Pickup229 and made it LikeNew (earned $25.0)
+
+Mechanic Violet repaired PerfCar249 and made it LikeNew (earned $50.0)
+
+
+Selling...
+
+Salesperson Amanda sold Sparkling LikeNew Pickup189 to Buyer for $56681.25 (earned $25.0)
+
+Salesperson Jeff sold Sparkling LikeNew Pickup214 to Buyer for $31396.0 (earned $25.0)
+
+Salesperson Amanda sold Sparkling LikeNew Pickup8 to Buyer for $27598.0 (earned $25.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+    Amanda |          22 | $9400.00        | $465.00         | Working
+   Tristan |          21 | $7700.00        | $225.00         | Working
+       Yin |          18 | $13500.00       | $155.00         | Working
+    Violet |          14 | $9500.00        | $135.00         | Working
+      Jeff |          13 | $3700.00        | $280.00         | Working
+    Hannah |           6 | $600.00         | $0.00           | Working
+     Roxie |           6 | $600.00         | $110.00         | Working
+     Peter |           8 | $1700.00        | $110.00         | Working
+   Isabele |           1 | $100.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+     Faith |          16 | $7600.00        | $235.00         | Quit
+     Eliza |           3 | $300.00         | $25.00          | Quit
+      Will |          20 | $13700.00       | $180.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+  PerfCar249 | $28217.60 | $70544.00   |   LikeNew |       Dirty | YES
+  PerfCar248 | $23388.80 | $46777.60   |      Used |       Dirty | YES
+  PerfCar178 | $17760.80 | $44402.00   |   LikeNew |       Clean | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+      Car188 | $12940.00 | $32350.00   |   LikeNew |   Sparkling | YES
+   Pickup229 | $8725.00  | $32718.75   |   LikeNew |       Dirty | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+      Car227 | $9759.20  | $24398.00   |   LikeNew |       Clean | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |   Sparkling | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Clean | NO
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |   Sparkling | NO
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | NO
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | NO
+       Car90 | $7495.00  | $28106.25   |   LikeNew |   Sparkling | NO
+   Pickup163 | $31748.80 | $79372.00   |   LikeNew |       Dirty | NO
+   Pickup162 | $18440.00 | $36880.00   |   LikeNew |   Sparkling | NO
+      Car176 | $13550.40 | $27100.80   |      Used |       Dirty | NO
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | NO
+      Car177 | $9561.00  | $35853.75   |   LikeNew |       Dirty | NO
+   Pickup190 | $31771.00 | $63542.00   |   LikeNew |       Clean | NO
+   Pickup143 | $8983.00  | $33686.25   |   LikeNew |   Sparkling | NO
+      Car212 | $16290.00 | $32580.00   |   LikeNew |   Sparkling | NO
+  PerfCar213 | $26148.80 | $52297.60   |      Used |       Dirty | NO
+  PerfCar228 | $38746.00 | $77492.00   |   LikeNew |   Sparkling | NO
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | NO
+   Pickup189 | $15115.00 | $56681.25   |   LikeNew |   Sparkling | NO
+   Pickup214 | $15698.00 | $31396.00   |   LikeNew |   Sparkling | NO
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | NO
+
+
+Total Remianing Budget: $1324813.15
+Total Day Sales: $115675.25
+
+
+*** FNCD Day 26 ***
+Opening... (current budget $1324813.15)
+
+Purchased LikeNew, Clean Pickup for $28098.0
+
+Purchased Broken, Dirty Pickup for $7450.5
+
+Purchased Broken, Clean Pickup for $14907.5
+
+
+Washing...
+
+Intern Hannah washed Pickup229 and made it Clean
+
+Intern Roxie washed PerfCar248 and made it Clean
+
+Intern Isabele washed PerfCar249 and made it Clean
+
+Intern Hannah washed Pickup269 and made it Clean
+
+Intern Roxie washed Pickup270 and made it Clean
+
+Intern Isabele washed PerfCar178 and made it Clean
+
+
+Repairing...
+
+Mechanic Yin repaired Pickup269 and made it Used (earned $25.0)
+
+Mechanic Peter repaired Pickup270 and made it Used (earned $25.0)
+
+
+Selling...
+
+Salesperson Tristan sold Clean LikeNew PerfCar249 to Buyer for $70544.0 (earned $50.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+    Amanda |          23 | $9900.00        | $465.00         | Working
+   Tristan |          22 | $8200.00        | $275.00         | Working
+       Yin |          19 | $14500.00       | $180.00         | Working
+    Violet |          15 | $10500.00       | $135.00         | Working
+      Jeff |          14 | $4200.00        | $280.00         | Working
+    Hannah |           7 | $700.00         | $0.00           | Working
+     Roxie |           7 | $700.00         | $110.00         | Working
+     Peter |           9 | $2700.00        | $135.00         | Working
+   Isabele |           2 | $200.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+     Faith |          16 | $7600.00        | $235.00         | Quit
+     Eliza |           3 | $300.00         | $25.00          | Quit
+      Will |          20 | $13700.00       | $180.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+   Pickup268 | $28098.00 | $56196.00   |   LikeNew |       Clean | YES
+  PerfCar248 | $23388.80 | $46777.60   |      Used |       Dirty | YES
+  PerfCar178 | $17760.80 | $44402.00   |   LikeNew |       Clean | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+   Pickup229 | $8725.00  | $32718.75   |   LikeNew |       Clean | YES
+      Car188 | $12940.00 | $32350.00   |   LikeNew |   Sparkling | YES
+   Pickup270 | $14907.50 | $44722.50   |      Used |       Dirty | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+      Car227 | $9759.20  | $24398.00   |   LikeNew |       Clean | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |   Sparkling | YES
+   Pickup269 | $7450.50  | $22351.50   |      Used |       Dirty | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Clean | NO
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |   Sparkling | NO
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | NO
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | NO
+       Car90 | $7495.00  | $28106.25   |   LikeNew |   Sparkling | NO
+   Pickup163 | $31748.80 | $79372.00   |   LikeNew |       Dirty | NO
+   Pickup162 | $18440.00 | $36880.00   |   LikeNew |   Sparkling | NO
+      Car176 | $13550.40 | $27100.80   |      Used |       Dirty | NO
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | NO
+      Car177 | $9561.00  | $35853.75   |   LikeNew |       Dirty | NO
+   Pickup190 | $31771.00 | $63542.00   |   LikeNew |       Clean | NO
+   Pickup143 | $8983.00  | $33686.25   |   LikeNew |   Sparkling | NO
+      Car212 | $16290.00 | $32580.00   |   LikeNew |   Sparkling | NO
+  PerfCar213 | $26148.80 | $52297.60   |      Used |       Dirty | NO
+  PerfCar228 | $38746.00 | $77492.00   |   LikeNew |   Sparkling | NO
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | NO
+   Pickup189 | $15115.00 | $56681.25   |   LikeNew |   Sparkling | NO
+   Pickup214 | $15698.00 | $31396.00   |   LikeNew |   Sparkling | NO
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | NO
+  PerfCar249 | $28217.60 | $70544.00   |   LikeNew |       Clean | NO
+
+
+Total Remianing Budget: $1340101.15
+Total Day Sales: $70544.00
+
+
+*** FNCD Day 27 ***
+Opening... (current budget $1340101.15)
+
+Purchased LikeNew, Clean Performance Car for $24063.0
+
+
+Washing...
+
+Intern Hannah washed PerfCar248 and made it Clean
+
+Intern Roxie washed Pickup270 and made it Sparkling (earned $25.0)
+
+Intern Isabele washed Pickup269 and made it Clean
+
+Intern Hannah washed Car227 and made it Clean
+
+Intern Roxie washed Pickup268 and made it Sparkling (earned $25.0)
+
+Intern Isabele washed Pickup229 and made it Clean
+
+
+Repairing...
+
+Mechanic Yin repaired Pickup269 and made it LikeNew (earned $25.0)
+
+Mechanic Violet repaired Pickup270 and made it LikeNew (earned $25.0)
+
+
+Selling...
+
+Salesperson Tristan sold Sparkling LikeNew Pickup268 to Buyer for $56196.0 (earned $25.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+    Amanda |          24 | $10400.00       | $465.00         | Working
+   Tristan |          23 | $8700.00        | $300.00         | Working
+       Yin |          20 | $15500.00       | $205.00         | Working
+    Violet |          16 | $11500.00       | $160.00         | Working
+      Jeff |          15 | $4700.00        | $280.00         | Working
+    Hannah |           8 | $800.00         | $0.00           | Working
+     Roxie |           8 | $800.00         | $160.00         | Working
+     Peter |          10 | $3700.00        | $135.00         | Working
+   Isabele |           3 | $300.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+     Faith |          16 | $7600.00        | $235.00         | Quit
+     Eliza |           3 | $300.00         | $25.00          | Quit
+      Will |          20 | $13700.00       | $180.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+  PerfCar277 | $24063.00 | $48126.00   |   LikeNew |       Clean | YES
+  PerfCar248 | $23388.80 | $46777.60   |      Used |       Dirty | YES
+   Pickup270 | $14907.50 | $55903.13   |   LikeNew |       Clean | YES
+  PerfCar178 | $17760.80 | $44402.00   |   LikeNew |       Clean | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+   Pickup229 | $8725.00  | $32718.75   |   LikeNew |       Clean | YES
+      Car188 | $12940.00 | $32350.00   |   LikeNew |   Sparkling | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+      Car227 | $9759.20  | $24398.00   |   LikeNew |       Clean | YES
+   Pickup269 | $7450.50  | $27939.38   |   LikeNew |       Dirty | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |   Sparkling | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Clean | NO
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |   Sparkling | NO
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | NO
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | NO
+       Car90 | $7495.00  | $28106.25   |   LikeNew |   Sparkling | NO
+   Pickup163 | $31748.80 | $79372.00   |   LikeNew |       Dirty | NO
+   Pickup162 | $18440.00 | $36880.00   |   LikeNew |   Sparkling | NO
+      Car176 | $13550.40 | $27100.80   |      Used |       Dirty | NO
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | NO
+      Car177 | $9561.00  | $35853.75   |   LikeNew |       Dirty | NO
+   Pickup190 | $31771.00 | $63542.00   |   LikeNew |       Clean | NO
+   Pickup143 | $8983.00  | $33686.25   |   LikeNew |   Sparkling | NO
+      Car212 | $16290.00 | $32580.00   |   LikeNew |   Sparkling | NO
+  PerfCar213 | $26148.80 | $52297.60   |      Used |       Dirty | NO
+  PerfCar228 | $38746.00 | $77492.00   |   LikeNew |   Sparkling | NO
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | NO
+   Pickup189 | $15115.00 | $56681.25   |   LikeNew |   Sparkling | NO
+   Pickup214 | $15698.00 | $31396.00   |   LikeNew |   Sparkling | NO
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | NO
+  PerfCar249 | $28217.60 | $70544.00   |   LikeNew |       Clean | NO
+   Pickup268 | $28098.00 | $56196.00   |   LikeNew |   Sparkling | NO
+
+
+Total Remianing Budget: $1367434.15
+Total Day Sales: $56196.00
+
+
+*** FNCD Day 28 ***
+
+FNCD is closed on Sundays! :)
+Come back Tomorrow!
+
+*** FNCD Day 29 ***
+Opening... (current budget $1367434.15)
+
+Purchased Broken, Clean Pickup for $6558.0
+
+
+Washing...
+
+Intern Hannah washed Pickup269 and made it Clean
+
+Intern Roxie washed PerfCar248 and made it Clean
+
+Intern Isabele washed Pickup290 and made it Sparkling (earned $25.0)
+
+Intern Hannah washed PerfCar277 and made it Clean
+
+Intern Roxie washed Pickup229 and made it Sparkling (earned $25.0)
+
+Intern Isabele washed PerfCar178 and made it Sparkling (earned $50.0)
+
+
+Repairing...
+
+
+Selling...
+
+Salesperson Tristan sold Clean LikeNew PerfCar277 to Buyer for $48126.0 (earned $50.0)
+
+
+Ending...
+
+Hannah has been promoted to Mech
+
+Mech Yin has quit FNCD
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+    Amanda |          25 | $10900.00       | $465.00         | Working
+   Tristan |          24 | $9200.00        | $350.00         | Working
+    Violet |          17 | $12500.00       | $160.00         | Working
+      Jeff |          16 | $5200.00        | $280.00         | Working
+     Roxie |           9 | $900.00         | $185.00         | Working
+     Peter |          11 | $4700.00        | $135.00         | Working
+   Isabele |           4 | $400.00         | $75.00          | Working
+    Hannah |           9 | $900.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+     Faith |          16 | $7600.00        | $235.00         | Quit
+     Eliza |           3 | $300.00         | $25.00          | Quit
+      Will |          20 | $13700.00       | $180.00         | Quit
+       Yin |          21 | $16500.00       | $205.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+   Pickup270 | $14907.50 | $55903.13   |   LikeNew |       Clean | YES
+  PerfCar248 | $23388.80 | $46777.60   |      Used |       Dirty | YES
+  PerfCar178 | $17760.80 | $44402.00   |   LikeNew |   Sparkling | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+   Pickup229 | $8725.00  | $32718.75   |   LikeNew |   Sparkling | YES
+      Car188 | $12940.00 | $32350.00   |   LikeNew |   Sparkling | YES
+   Pickup269 | $7450.50  | $27939.38   |   LikeNew |       Clean | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+      Car227 | $9759.20  | $24398.00   |   LikeNew |       Clean | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |   Sparkling | YES
+   Pickup290 | $6558.00  | $13116.00   |    Broken |       Clean | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Clean | NO
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |   Sparkling | NO
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | NO
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | NO
+       Car90 | $7495.00  | $28106.25   |   LikeNew |   Sparkling | NO
+   Pickup163 | $31748.80 | $79372.00   |   LikeNew |       Dirty | NO
+   Pickup162 | $18440.00 | $36880.00   |   LikeNew |   Sparkling | NO
+      Car176 | $13550.40 | $27100.80   |      Used |       Dirty | NO
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | NO
+      Car177 | $9561.00  | $35853.75   |   LikeNew |       Dirty | NO
+   Pickup190 | $31771.00 | $63542.00   |   LikeNew |       Clean | NO
+   Pickup143 | $8983.00  | $33686.25   |   LikeNew |   Sparkling | NO
+      Car212 | $16290.00 | $32580.00   |   LikeNew |   Sparkling | NO
+  PerfCar213 | $26148.80 | $52297.60   |      Used |       Dirty | NO
+  PerfCar228 | $38746.00 | $77492.00   |   LikeNew |   Sparkling | NO
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | NO
+   Pickup189 | $15115.00 | $56681.25   |   LikeNew |   Sparkling | NO
+   Pickup214 | $15698.00 | $31396.00   |   LikeNew |   Sparkling | NO
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | NO
+  PerfCar249 | $28217.60 | $70544.00   |   LikeNew |       Clean | NO
+   Pickup268 | $28098.00 | $56196.00   |   LikeNew |   Sparkling | NO
+  PerfCar277 | $24063.00 | $48126.00   |   LikeNew |       Clean | NO
+
+
+Total Remianing Budget: $1404202.15
+Total Day Sales: $48126.00
+
+
+*** FNCD Day 30 ***
+Opening... (current budget $1404202.15)
+
+Hired Intern Ben
+
+Purchased Used, Sparkling Performance Car for $30193.6
+
+
+Washing...
+
+Intern Roxie washed PerfCar248 and made it Clean
+
+Intern Isabele washed Pickup290 and made it Clean
+
+Intern Ben washed Pickup270 and made it Clean
+
+Intern Roxie washed Pickup269 and made it Clean
+
+Intern Isabele washed Car227 and made it Clean
+
+
+Repairing...
+
+Mechanic Violet repaired PerfCar303 and made it LikeNew (earned $50.0)
+
+Mechanic Hannah repaired PerfCar248 and made it LikeNew (earned $50.0)
+
+
+Selling...
+
+Salesperson Amanda sold Clean LikeNew PerfCar303 to Buyer for $75484.0 (earned $50.0)
+
+Salesperson Jeff sold Clean LikeNew Pickup270 to Buyer for $55903.125 (earned $25.0)
+
+Salesperson Tristan sold Sparkling LikeNew Pickup229 to Buyer for $32718.75 (earned $25.0)
+
+Salesperson Amanda sold Dirty LikeNew PerfCar248 to Buyer for $58472.0 (earned $50.0)
+
+
+Ending...
+
+Ending Report:
+
+Staff Members:
+------------------------------------------------------------------------
+      Name | Days Worked |Total Normal Pay | Total Bonus Pay |Status
+------------------------------------------------------------------------
+    Amanda |          26 | $11400.00       | $565.00         | Working
+   Tristan |          25 | $9700.00        | $375.00         | Working
+    Violet |          18 | $13500.00       | $210.00         | Working
+      Jeff |          17 | $5700.00        | $305.00         | Working
+     Roxie |          10 | $1000.00        | $185.00         | Working
+     Peter |          12 | $5700.00        | $135.00         | Working
+   Isabele |           5 | $500.00         | $75.00          | Working
+    Hannah |          10 | $1900.00        | $50.00          | Working
+       Ben |           1 | $100.00         | $0.00           | Working
+------------------------------------------------------------------------
+     Roger |           1 | $500.00         | $100.00         | Quit
+      Mary |           1 | $100.00         | $0.00           | Quit
+      Hope |           4 | $2000.00        | $50.00          | Quit
+       Cat |           8 | $4000.00        | $110.00         | Quit
+      Jose |           8 | $8000.00        | $145.00         | Quit
+     Silva |           9 | $9000.00        | $210.00         | Quit
+ Daquarius |          13 | $13000.00       | $160.00         | Quit
+     Holly |           6 | $600.00         | $125.00         | Quit
+     Faith |          16 | $7600.00        | $235.00         | Quit
+     Eliza |           3 | $300.00         | $25.00          | Quit
+      Will |          20 | $13700.00       | $180.00         | Quit
+       Yin |          21 | $16500.00       | $205.00         | Quit
+
+
+Inventory:
+-----------------------------------------------------------------------------
+Vehicle Name |      Cost | Sales Price | Condition | Cleanliness |  In Stock
+-----------------------------------------------------------------------------
+  PerfCar178 | $17760.80 | $44402.00   |   LikeNew |   Sparkling | YES
+    PerfCar5 | $10180.00 | $38175.00   |   LikeNew |   Sparkling | YES
+      Car188 | $12940.00 | $32350.00   |   LikeNew |   Sparkling | YES
+   Pickup269 | $7450.50  | $27939.38   |   LikeNew |       Clean | YES
+       Car91 | $12423.00 | $24846.00   |   LikeNew |   Sparkling | YES
+      Car227 | $9759.20  | $24398.00   |   LikeNew |       Clean | YES
+       Car61 | $5431.50  | $20368.13   |   LikeNew |   Sparkling | YES
+   Pickup290 | $6558.00  | $13116.00   |    Broken |       Dirty | YES
+-----------------------------------------------------------------------------
+    PerfCar4 | $32476.00 | $64952.00   |   LikeNew |       Clean | NO
+    PerfCar6 | $27724.80 | $69312.00   |   LikeNew |       Dirty | NO
+    PerfCar7 | $26347.20 | $52694.40   |      Used |       Clean | NO
+   PerfCar23 | $30303.00 | $60606.00   |   LikeNew |       Dirty | NO
+    Pickup11 | $26897.60 | $67244.00   |   LikeNew |       Clean | NO
+   PerfCar22 | $25747.20 | $64368.00   |   LikeNew |       Clean | NO
+        Car3 | $17622.00 | $35244.00   |   LikeNew |       Clean | NO
+    Pickup50 | $27036.00 | $54072.00   |      Used |       Clean | NO
+        Car1 | $10032.80 | $25082.00   |   LikeNew |       Clean | NO
+   PerfCar21 | $29194.40 | $72986.00   |   LikeNew |   Sparkling | NO
+     Pickup9 | $16865.60 | $42164.00   |   LikeNew |       Clean | NO
+       Car60 | $9708.00  | $24270.00   |   LikeNew |       Clean | NO
+        Car2 | $9653.60  | $24134.00   |   LikeNew |   Sparkling | NO
+        Car0 | $5835.00  | $21881.25   |   LikeNew |   Sparkling | NO
+    Pickup70 | $27086.00 | $54172.00   |   LikeNew |       Clean | NO
+   PerfCar69 | $31901.00 | $63802.00   |   LikeNew |       Clean | NO
+   PerfCar49 | $31165.00 | $62330.00   |   LikeNew |       Clean | NO
+   PerfCar30 | $30308.00 | $60616.00   |   LikeNew |       Clean | NO
+    Pickup62 | $19457.60 | $48644.00   |   LikeNew |       Clean | NO
+    Pickup10 | $15952.00 | $39880.00   |   LikeNew |   Sparkling | NO
+  PerfCar105 | $27285.00 | $54570.00   |   LikeNew |   Sparkling | NO
+   Pickup123 | $10474.00 | $39277.50   |   LikeNew |       Clean | NO
+   Pickup107 | $11873.60 | $29684.00   |   LikeNew |   Sparkling | NO
+       Car89 | $12947.20 | $32368.00   |   LikeNew |       Clean | NO
+  PerfCar142 | $23214.00 | $46428.00   |   LikeNew |       Clean | NO
+       Car90 | $7495.00  | $28106.25   |   LikeNew |   Sparkling | NO
+   Pickup163 | $31748.80 | $79372.00   |   LikeNew |       Dirty | NO
+   Pickup162 | $18440.00 | $36880.00   |   LikeNew |   Sparkling | NO
+      Car176 | $13550.40 | $27100.80   |      Used |       Dirty | NO
+  PerfCar104 | $18490.40 | $46226.00   |   LikeNew |   Sparkling | NO
+      Car177 | $9561.00  | $35853.75   |   LikeNew |       Dirty | NO
+   Pickup190 | $31771.00 | $63542.00   |   LikeNew |       Clean | NO
+   Pickup143 | $8983.00  | $33686.25   |   LikeNew |   Sparkling | NO
+      Car212 | $16290.00 | $32580.00   |   LikeNew |   Sparkling | NO
+  PerfCar213 | $26148.80 | $52297.60   |      Used |       Dirty | NO
+  PerfCar228 | $38746.00 | $77492.00   |   LikeNew |   Sparkling | NO
+  PerfCar106 | $22589.00 | $45178.00   |   LikeNew |   Sparkling | NO
+   Pickup189 | $15115.00 | $56681.25   |   LikeNew |   Sparkling | NO
+   Pickup214 | $15698.00 | $31396.00   |   LikeNew |   Sparkling | NO
+     Pickup8 | $13799.00 | $27598.00   |   LikeNew |   Sparkling | NO
+  PerfCar249 | $28217.60 | $70544.00   |   LikeNew |       Clean | NO
+   Pickup268 | $28098.00 | $56196.00   |   LikeNew |   Sparkling | NO
+  PerfCar277 | $24063.00 | $48126.00   |   LikeNew |       Clean | NO
+  PerfCar303 | $30193.60 | $75484.00   |   LikeNew |       Clean | NO
+   Pickup270 | $14907.50 | $55903.13   |   LikeNew |       Clean | NO
+   Pickup229 | $8725.00  | $32718.75   |   LikeNew |   Sparkling | NO
+  PerfCar248 | $23388.80 | $58472.00   |   LikeNew |       Dirty | NO
+
+
+Total Remianing Budget: $1591786.42
+Total Day Sales: $222577.88

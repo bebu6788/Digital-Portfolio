@@ -1,0 +1,59 @@
+
+*** FNCD Day 16 ***
+FNCD North Opening... (current budget $1196200.04)
+
+Hired Intern Tron
+
+Hired Intern Kensley
+
+FNCD South Opening... (current budget $3689579.22)
+
+
+FNCD North Washing...
+
+Intern Tiana washed Monster30 using a Chemical wash method and made it Clean
+
+Intern Tron washed Pickup21 using a ElbowGrease wash method and made it Clean
+
+Intern Kensley washed Car47 using a Chemical wash method and made it Clean
+
+Intern Tiana washed Hyper28 using a Chemical wash method and made it Clean
+
+Intern Tron washed Motor195 using a ElbowGrease wash method and made it Clean
+
+Intern Kensley washed Hyper27 using a Chemical wash method and made it Clean
+
+
+FNCD South Washing...
+
+Intern Yin washed Hyper82 using a Chemical wash method and made it Dirty
+
+Intern Braden washed Pickup72 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Pickup198 using a Chemical wash method and made it Clean
+
+Intern Yin washed Van59 using a Chemical wash method and made it Clean
+
+Intern Braden washed Pickup74 using a ElbowGrease wash method and made it Sparkling (earned $25.0)
+
+Intern Carmen washed Monster89 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+
+FNCD South Repairing...
+
+Mechanic Umar repaired Pickup72 and made it LikeNew (earned $25.0)
+
+
+FNCD North Selling...
+
+
+FNCD South Selling...
+
+
+FNCD North Ending...
+
+
+FNCD South Ending...

@@ -1,0 +1,35 @@
+
+*** FNCD Day 2 ***
+Opening... (current budget $123180.00)
+
+
+Washing...
+
+Intern Holden washed Monster4 using a Chemical wash method and made it Clean
+
+Intern Brett washed EV15 using a Chemical wash method and made it Clean
+
+Intern Eliza washed Monster6 using a Detailed wash method and made it Clean
+
+Intern Holden washed Monster5 using a Chemical wash method and made it Dirty
+
+Intern Brett washed Pickup9 using a Chemical wash method and made it Clean
+
+Intern Eliza washed Motor0 using a Detailed wash method and made it Dirty
+
+
+Repairing...
+
+Mechanic Kathryn repaired Car20 and made it Used (earned $10.0)
+
+Mechanic Tristan repaired Pickup11 and made it LikeNew (earned $25.0)
+
+Mechanic John repaired Monster4 and made it LikeNew (earned $10.0)
+
+Mechanic Tristan repaired Car23 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+
+Ending...

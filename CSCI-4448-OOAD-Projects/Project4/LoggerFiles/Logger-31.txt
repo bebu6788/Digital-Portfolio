@@ -1,0 +1,92 @@
+
+*** FNCD Day 31 ***
+FNCD North Opening... (current budget $5235147.32)
+
+Hired Intern Peter
+
+Hired Intern Harry
+
+Purchased Broken, Dirty Car for $21928.0
+
+FNCD South Opening... (current budget $5661337.17)
+
+Purchased LikeNew, Sparkling Car for $21450.0
+
+
+FNCD North Washing...
+
+Intern Livy washed Hyper292 using a Chemical wash method and made it Clean
+
+Intern Peter washed EV303 using a Chemical wash method and made it Clean
+
+Intern Harry washed EV17 using a Chemical wash method and made it Dirty
+
+Intern Livy washed Van311 using a Chemical wash method and made it Clean
+
+Intern Peter washed Monster30 using a Chemical wash method and made it Clean
+
+Intern Harry washed Motor53 using a Chemical wash method and made it Clean
+
+
+FNCD South Washing...
+
+Intern Braden washed Motor130 using a ElbowGrease wash method and made it Dirty
+
+Intern Carmen washed PerfCar304 using a Chemical wash method and made it Dirty
+
+Intern Wexler washed EV68 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Braden washed Hyper79 using a ElbowGrease wash method and made it Sparkling (earned $100.0)
+
+Intern Carmen washed EV276 using a Chemical wash method and made it Clean
+
+Intern Wexler washed Limo60 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Adin repaired Van311 and made it Used (earned $50.0)
+
+Mechanic Faith repaired Hyper292 and made it LikeNew (earned $100.0)
+
+Mechanic Kevin repaired EV303 and made it Used (earned $10.0)
+
+
+FNCD South Repairing...
+
+
+Interactive Selling...
+
+Extended Warranty added. Price increased by $14030.00
+Undercoating added. Price increased by $4209.00
+Road Rescue Coverage added. Price increased by $1767.78
+Satellite Radio added. Price increased by $4507.84
+Salesperson Destiny sold Clean LikeNew SatRadio RRC Undercoat ExtWar EV276 to Buyer for $94664.62 (earned $10.0)
+
+
+FNCD North Racing...
+
+Driver John placed 6 in today's race using PerfCar154
+
+Driver Don placed 18 in today's race using PerfCar38
+
+Driver Oliver placed 3 in today's race using PerfCar236 (earned $50.0)
+
+
+FNCD South Racing...
+
+Driver Alberto placed 10 in today's race using PerfCar95
+
+Driver Violet placed 17 in today's race using PerfCar93
+
+Driver Xavier placed 16 in today's race using PerfCar90
+
+
+FNCD North Ending...
+
+Driver Don has quit FNCD due to injury
+
+
+FNCD South Ending...
+
+Driver Xavier has quit FNCD due to injury

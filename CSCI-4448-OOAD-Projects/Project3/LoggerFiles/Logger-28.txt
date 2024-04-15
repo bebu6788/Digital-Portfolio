@@ -1,0 +1,38 @@
+
+*** FNCD Day 28 ***
+Opening... (current budget $2121194.48)
+
+
+Washing...
+
+Intern Amanda washed PerfCar115 using a ElbowGrease wash method and made it Dirty
+
+Intern Pete washed Motor54 using a ElbowGrease wash method and made it Clean
+
+Intern Don washed PerfCar116 using a Detailed wash method and made it Dirty
+
+Intern Amanda washed PerfCar114 using a ElbowGrease wash method and made it Clean
+
+Intern Pete washed Car55 using a ElbowGrease wash method and made it Clean
+
+Intern Don washed Monster4 using a Detailed wash method and made it Clean
+
+
+Repairing...
+
+Mechanic Jose repaired PerfCar115 and made it LikeNew (earned $50.0)
+
+
+Selling...
+
+
+Racing...
+
+Driver Daquarius placed 14 in today's race using Motor54
+
+Driver Ariana placed 18 in today's race using Motor3
+
+Driver Mary placed 5 in today's race using Motor32
+
+
+Ending...

@@ -1,0 +1,85 @@
+
+*** FNCD Day 17 ***
+FNCD North Opening... (current budget $1191400.04)
+
+FNCD South Opening... (current budget $3684729.22)
+
+
+FNCD North Washing...
+
+Intern Tiana washed Monster30 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Tron washed Motor53 using a ElbowGrease wash method and made it Dirty
+
+Intern Kensley washed EV13 using a Chemical wash method and made it Clean
+
+Intern Tiana washed Monster32 using a Chemical wash method and made it Clean
+
+Intern Tron washed Limo10 using a ElbowGrease wash method and made it Clean
+
+Intern Kensley washed EV16 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+
+FNCD South Washing...
+
+Intern Yin washed Pickup72 using a Chemical wash method and made it Sparkling (earned $25.0)
+
+Intern Braden washed Hyper82 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Pickup198 using a Chemical wash method and made it Dirty
+
+Intern Yin washed PerfCar92 using a Chemical wash method and made it Clean
+
+Intern Braden washed Hyper81 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Motor130 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Hannah repaired Monster30 and made it LikeNew (earned $10.0)
+
+
+FNCD South Repairing...
+
+
+FNCD North Selling...
+
+Satellite Radio added. Price increased by $4953.60
+Salesperson Silva sold Clean LikeNew SatRadio Van1 to Buyer for $104025.60 (earned $50.0)
+
+Extended Warranty added. Price increased by $15978.40
+Salesperson Nora sold Clean LikeNew ExtWar PerfCar180 to Buyer for $95870.40 (earned $50.0)
+
+Salesperson Nora sold Clean LikeNew EV15 to Buyer for $88990.00 (earned $10.0)
+
+
+FNCD South Selling...
+
+
+FNCD North Racing...
+
+Driver Roger placed 19 in today's race using PerfCar180
+
+Driver Kathryn placed 16 in today's race using PerfCar154
+
+Driver William placed 13 in today's race using PerfCar38
+
+
+FNCD South Racing...
+
+Driver Alberto placed 2 in today's race using PerfCar92 (earned $50.0)
+
+Driver Violet placed 4 in today's race using PerfCar95
+
+Driver Holden placed 5 in today's race using PerfCar93
+
+
+FNCD North Ending...
+
+Driver Roger has quit FNCD due to injury
+
+Driver Kathryn has quit FNCD due to injury
+
+
+FNCD South Ending...

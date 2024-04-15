@@ -1,0 +1,44 @@
+
+*** FNCD Day 26 ***
+Opening... (current budget $2073567.88)
+
+Purchased Broken, Dirty Car for $19984.0
+
+Purchased Broken, Dirty Car for $10449.0
+
+Purchased Broken, Dirty Car for $13678.0
+
+
+Washing...
+
+Intern Amanda washed Pickup106 using a ElbowGrease wash method and made it Clean
+
+Intern Pete washed Motor54 using a ElbowGrease wash method and made it Clean
+
+Intern Don washed PerfCar114 using a Detailed wash method and made it Clean
+
+Intern Amanda washed PerfCar116 using a ElbowGrease wash method and made it Dirty
+
+Intern Pete washed PerfCar115 using a ElbowGrease wash method and made it Dirty
+
+Intern Don washed Pickup10 using a Detailed wash method and made it Sparkling (earned $25.0)
+
+
+Repairing...
+
+Mechanic Jose repaired PerfCar114 and made it Used (earned $50.0)
+
+Mechanic Peter repaired Motor54 and made it LikeNew (earned $10.0)
+
+Mechanic Derrek repaired PerfCar116 and made it Used (earned $50.0)
+
+Mechanic Jose repaired PerfCar115 and made it Used (earned $50.0)
+
+
+Selling...
+
+Undercoating added. Price increased by $4840.60
+Salesperson Braden sold Clean LikeNew Undercoat Monster7 to Buyer for $101652.60 (earned $10.0)
+
+
+Ending...

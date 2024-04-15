@@ -1,0 +1,66 @@
+
+*** FNCD Day 26 ***
+FNCD North Opening... (current budget $4310677.36)
+
+Hired Intern Livy
+
+Purchased Broken, Clean Car for $18824.0
+
+FNCD South Opening... (current budget $5197599.81)
+
+Purchased Broken, Dirty Car for $9292.0
+
+
+FNCD North Washing...
+
+Intern Cat washed Limo235 using a Detailed wash method and made it Clean
+
+Intern Zach washed EV17 using a Detailed wash method and made it Dirty
+
+Intern Livy washed EV283 using a Chemical wash method and made it Clean
+
+Intern Cat washed Pickup18 using a Detailed wash method and made it Sparkling (earned $25.0)
+
+Intern Zach washed Motor51 using a Detailed wash method and made it Sparkling (earned $10.0)
+
+Intern Livy washed Monster35 using a Chemical wash method and made it Clean
+
+
+FNCD South Washing...
+
+Intern Braden washed Car284 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Van256 using a Chemical wash method and made it Sparkling (earned $50.0)
+
+Intern Wexler washed EV276 using a Chemical wash method and made it Clean
+
+Intern Braden washed PerfCar95 using a ElbowGrease wash method and made it Dirty
+
+Intern Carmen washed Car96 using a Chemical wash method and made it Clean
+
+Intern Wexler washed Motor130 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Faith repaired EV283 and made it Used (earned $10.0)
+
+
+FNCD South Repairing...
+
+Mechanic Isabele repaired Car284 and made it Used (earned $10.0)
+
+
+FNCD North Selling...
+
+
+FNCD South Selling...
+
+Extended Warranty added. Price increased by $25137.75
+Salesperson Solomon sold Clean LikeNew ExtWar Limo249 to Buyer for $150826.50 (earned $70.0)
+
+
+FNCD North Ending...
+
+
+FNCD South Ending...

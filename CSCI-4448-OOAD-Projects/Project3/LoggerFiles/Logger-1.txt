@@ -1,0 +1,93 @@
+
+*** FNCD Day 1 ***
+Opening... (current budget $500000.00)
+
+Purchased Used, Dirty Car for $10372.8
+
+Purchased Used, Clean Car for $11442.4
+
+Purchased LikeNew, Dirty Car for $10036.0
+
+Purchased Used, Dirty Car for $8213.6
+
+Purchased Used, Dirty Car for $25699.2
+
+Purchased LikeNew, Dirty Car for $38106.0
+
+Purchased Broken, Clean Car for $20250.0
+
+Purchased LikeNew, Clean Car for $48406.0
+
+Purchased LikeNew, Dirty Car for $33797.0
+
+Purchased LikeNew, Dirty Car for $13061.0
+
+Purchased Broken, Sparkling Car for $8298.5
+
+Purchased Used, Dirty Car for $24280.0
+
+Purchased LikeNew, Dirty Car for $31026.0
+
+Purchased Used, Dirty Car for $35868.8
+
+Purchased Broken, Clean Car for $18473.5
+
+Purchased Broken, Dirty Car for $18875.5
+
+Purchased Used, Clean Car for $30380.8
+
+Purchased Used, Dirty Car for $23886.4
+
+Purchased Broken, Dirty Car for $12269.0
+
+Purchased Used, Dirty Car for $21979.2
+
+Purchased Broken, Dirty Car for $8464.5
+
+Purchased Used, Dirty Car for $15675.2
+
+Purchased Used, Dirty Car for $11034.4
+
+Purchased Used, Clean Car for $13211.2
+
+
+Washing...
+
+Intern Holden washed PerfCar19 using a Chemical wash method and made it Dirty
+
+Intern Brett washed Car22 using a Chemical wash method and made it Clean
+
+Intern Eliza washed Motor0 using a Detailed wash method and made it Clean
+
+Intern Holden washed Motor3 using a Chemical wash method and made it Clean
+
+Intern Brett washed PerfCar17 using a Chemical wash method and made it Clean
+
+Intern Eliza washed Car20 using a Detailed wash method and made it Clean
+
+
+Repairing...
+
+Mechanic Kathryn repaired EV15 and made it Used (earned $10.0)
+
+Mechanic Tristan repaired Motor0 and made it LikeNew (earned $10.0)
+
+Mechanic John repaired Monster6 and made it Used (earned $10.0)
+
+Mechanic Kathryn repaired PerfCar17 and made it LikeNew (earned $50.0)
+
+Mechanic John repaired Motor1 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+Extended Warranty added. Price increased by $13518.80
+Satellite Radio added. Price increased by $4055.64
+Salesperson Zach sold Dirty LikeNew SatRadio ExtWar Pickup8 to Buyer for $85168.44 (earned $25.0)
+
+Extended Warranty added. Price increased by $5721.20
+Satellite Radio added. Price increased by $1716.36
+Salesperson Zach sold Dirty LikeNew SatRadio ExtWar Motor1 to Buyer for $36043.56 (earned $10.0)
+
+
+Ending...

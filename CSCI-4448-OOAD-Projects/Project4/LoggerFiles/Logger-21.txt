@@ -1,0 +1,90 @@
+
+*** FNCD Day 21 ***
+FNCD North Opening... (current budget $2890468.53)
+
+Hired Intern Cat
+
+FNCD South Opening... (current budget $4635425.71)
+
+Hired Intern Wexler
+
+Purchased Broken, Dirty Car for $33517.0
+
+
+FNCD North Washing...
+
+Intern Kensley washed EV218 using a Chemical wash method and made it Clean
+
+Intern Kevin washed PerfCar236 using a ElbowGrease wash method and made it Sparkling (earned $50.0)
+
+Intern Cat washed Motor51 using a Detailed wash method and made it Clean
+
+Intern Kensley washed Car44 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Kevin washed Monster32 using a ElbowGrease wash method and made it Dirty
+
+Intern Cat washed Pickup21 using a Detailed wash method and made it Sparkling (earned $25.0)
+
+
+FNCD South Washing...
+
+Intern Braden washed Motor102 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Limo249 using a Chemical wash method and made it Sparkling (earned $70.0)
+
+Intern Wexler washed Hyper82 using a Chemical wash method and made it Sparkling (earned $100.0)
+
+Intern Braden washed Monster88 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Monster85 using a Chemical wash method and made it Clean
+
+Intern Wexler washed Pickup75 using a Chemical wash method and made it Sparkling (earned $25.0)
+
+
+FNCD North Repairing...
+
+Mechanic Hannah repaired Limo235 and made it LikeNew (earned $70.0)
+
+Mechanic Adin repaired PerfCar236 and made it LikeNew (earned $50.0)
+
+
+FNCD South Repairing...
+
+Mechanic Isabele repaired Limo249 and made it Used (earned $70.0)
+
+
+FNCD North Selling...
+
+Satellite Radio added. Price increased by $25842.09
+Salesperson Silva sold Sparkling LikeNew SatRadio Hyper29 to Buyer for $542683.97 (earned $100.0)
+
+
+FNCD South Selling...
+
+
+FNCD North Racing...
+
+Driver William placed 16 in today's race using Pickup22
+
+Driver John placed 5 in today's race using Pickup21
+
+Driver Don placed 14 in today's race using Pickup18
+
+
+FNCD South Racing...
+
+Driver Alberto placed 17 in today's race using Monster84
+
+Driver Violet placed 4 in today's race using Monster85
+
+Driver Holden placed 15 in today's race using Monster88
+
+
+FNCD North Ending...
+
+Driver William has quit FNCD due to injury
+
+
+FNCD South Ending...
+
+Driver Holden has quit FNCD due to injury

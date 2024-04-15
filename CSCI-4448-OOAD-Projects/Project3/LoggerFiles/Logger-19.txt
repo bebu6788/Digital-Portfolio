@@ -1,0 +1,36 @@
+
+*** FNCD Day 19 ***
+Opening... (current budget $1027454.33)
+
+Hired Intern Derrek
+
+Purchased Broken, Dirty Car for $17366.5
+
+
+Washing...
+
+Intern Peter washed Pickup86 using a Chemical wash method and made it Clean
+
+Intern Kanye washed EV12 using a ElbowGrease wash method and made it Clean
+
+Intern Derrek washed Car55 using a ElbowGrease wash method and made it Clean
+
+Intern Peter washed Monster7 using a Chemical wash method and made it Clean
+
+Intern Kanye washed Car23 using a ElbowGrease wash method and made it Sparkling (earned $10.0)
+
+Intern Derrek washed Monster4 using a ElbowGrease wash method and made it Clean
+
+
+Repairing...
+
+Mechanic Tristan repaired Motor3 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+Extended Warranty added. Price increased by $14156.63
+Salesperson Isabele sold Sparkling LikeNew ExtWar EV15 to Buyer for $84939.75 (earned $10.0)
+
+
+Ending...

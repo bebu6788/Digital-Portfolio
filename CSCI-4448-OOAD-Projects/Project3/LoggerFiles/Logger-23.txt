@@ -1,0 +1,40 @@
+
+*** FNCD Day 23 ***
+Opening... (current budget $1373969.01)
+
+
+Washing...
+
+Intern Derrek washed Motor54 using a ElbowGrease wash method and made it Dirty
+
+Intern Braden washed Motor3 using a ElbowGrease wash method and made it Clean
+
+Intern Amanda washed Monster7 using a ElbowGrease wash method and made it Clean
+
+Intern Derrek washed EV12 using a ElbowGrease wash method and made it Clean
+
+Intern Braden washed PerfCar16 using a ElbowGrease wash method and made it Sparkling (earned $50.0)
+
+Intern Amanda washed Monster5 using a ElbowGrease wash method and made it Clean
+
+
+Repairing...
+
+Mechanic John repaired Motor3 and made it Used (earned $10.0)
+
+Mechanic Jose repaired Motor54 and made it Used (earned $10.0)
+
+
+Selling...
+
+Extended Warranty added. Price increased by $6605.60
+Salesperson Holden sold Sparkling LikeNew ExtWar Car23 to Buyer for $39633.60 (earned $10.0)
+
+Salesperson Brett sold Sparkling LikeNew PerfCar16 to Buyer for $75952.00 (earned $50.0)
+
+
+Ending...
+
+Derrek has been promoted to Mech
+
+Mech John has quit FNCD 

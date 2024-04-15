@@ -1,0 +1,86 @@
+
+*** FNCD Day 18 ***
+FNCD North Opening... (current budget $1469346.04)
+
+Hired Driver John
+
+Hired Driver Don
+
+Purchased Broken, Dirty Car for $19566.0
+
+FNCD South Opening... (current budget $3673854.22)
+
+
+FNCD North Washing...
+
+Intern Tiana washed Motor53 using a Chemical wash method and made it Clean
+
+Intern Tron washed EV218 using a ElbowGrease wash method and made it Clean
+
+Intern Kensley washed PerfCar153 using a Chemical wash method and made it Dirty
+
+Intern Tiana washed Car47 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Tron washed Car194 using a ElbowGrease wash method and made it Dirty
+
+Intern Kensley washed Monster31 using a Chemical wash method and made it Clean
+
+
+FNCD South Washing...
+
+Intern Yin washed Pickup198 using a Chemical wash method and made it Clean
+
+Intern Braden washed Monster89 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Motor107 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+Intern Yin washed Pickup73 using a Chemical wash method and made it Clean
+
+Intern Braden washed PerfCar90 using a ElbowGrease wash method and made it Dirty
+
+Intern Carmen washed Car98 using a Chemical wash method and made it Sparkling (earned $10.0)
+
+
+FNCD North Repairing...
+
+Mechanic Hannah repaired PerfCar180 and made it Used (earned $50.0)
+
+Mechanic Adin repaired PerfCar154 and made it Used (earned $50.0)
+
+Mechanic Faith repaired EV218 and made it Used (earned $10.0)
+
+
+FNCD South Repairing...
+
+
+FNCD North Selling...
+
+Extended Warranty added. Price increased by $32928.05
+Salesperson Nora sold Clean LikeNew ExtWar Monster30 to Buyer for $197568.28 (earned $10.0)
+
+Extended Warranty added. Price increased by $26106.75
+Undercoating added. Price increased by $7832.03
+Satellite Radio added. Price increased by $8223.63
+Salesperson Nora sold Clean LikeNew SatRadio Undercoat ExtWar Limo112 to Buyer for $172696.15 (earned $70.0)
+
+Extended Warranty added. Price increased by $26106.75
+Undercoating added. Price increased by $7832.03
+Satellite Radio added. Price increased by $8223.63
+Salesperson Silva sold Clean LikeNew SatRadio Undercoat ExtWar Limo112 to Buyer for $172696.15 (earned $70.0)
+
+
+FNCD South Selling...
+
+Extended Warranty added. Price increased by $15644.80
+Salesperson Solomon sold Sparkling LikeNew ExtWar EV71 to Buyer for $93868.80 (earned $10.0)
+
+Extended Warranty added. Price increased by $33750.75
+Salesperson Brant sold Clean LikeNew ExtWar Monster84 to Buyer for $202504.50 (earned $10.0)
+
+Salesperson Brant sold Sparkling LikeNew Pickup72 to Buyer for $123978.52 (earned $25.0)
+
+
+FNCD North Ending...
+
+
+FNCD South Ending...

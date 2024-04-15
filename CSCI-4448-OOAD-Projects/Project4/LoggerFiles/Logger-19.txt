@@ -1,0 +1,72 @@
+
+*** FNCD Day 19 ***
+FNCD North Opening... (current budget $1987670.62)
+
+FNCD South Opening... (current budget $4089341.03)
+
+Purchased Used, Clean Car for $19788.8
+
+
+FNCD North Washing...
+
+Intern Tiana washed Car194 using a Chemical wash method and made it Clean
+
+Intern Tron washed PerfCar153 using a ElbowGrease wash method and made it Clean
+
+Intern Kensley washed PerfCar154 using a Chemical wash method and made it Clean
+
+Intern Tiana washed PerfCar180 using a Chemical wash method and made it Clean
+
+Intern Tron washed EV218 using a ElbowGrease wash method and made it Clean
+
+Intern Kensley washed Hyper24 using a Chemical wash method and made it Sparkling (earned $100.0)
+
+
+FNCD South Washing...
+
+Intern Yin washed PerfCar90 using a Chemical wash method and made it Clean
+
+Intern Braden washed Motor103 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Hyper79 using a Chemical wash method and made it Clean
+
+Intern Yin washed Motor106 using a Chemical wash method and made it Clean
+
+Intern Braden washed Hyper83 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Limo65 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Hannah repaired PerfCar180 and made it LikeNew (earned $50.0)
+
+Mechanic Adin repaired EV218 and made it LikeNew (earned $10.0)
+
+Mechanic Faith repaired PerfCar154 and made it LikeNew (earned $50.0)
+
+
+FNCD South Repairing...
+
+Mechanic Umar repaired Pickup230 and made it LikeNew (earned $25.0)
+
+
+FNCD North Selling...
+
+Salesperson Nora sold Dirty LikeNew PerfCar180 to Buyer for $149797.50 (earned $50.0)
+
+Salesperson Zander sold Clean LikeNew Limo112 to Buyer for $130533.75 (earned $70.0)
+
+
+FNCD South Selling...
+
+Road Rescue Coverage added. Price increased by $1270.44
+Salesperson Brant sold Sparkling LikeNew RRC Pickup74 to Buyer for $64792.44 (earned $25.0)
+
+
+FNCD North Ending...
+
+Intern Tiana has quit FNCD 
+
+
+FNCD South Ending...

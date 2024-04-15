@@ -1,0 +1,51 @@
+
+*** FNCD Day 7 ***
+Opening... (current budget $227932.20)
+
+Hired Intern Moses
+
+Hired Intern Isabele
+
+
+Washing...
+
+Intern Jose washed PerfCar18 using a Chemical wash method and made it Sparkling (earned $50.0)
+
+Intern Moses washed PerfCar16 using a ElbowGrease wash method and made it Clean
+
+Intern Isabele washed Pickup10 using a Detailed wash method and made it Clean
+
+Intern Jose washed Motor3 using a Chemical wash method and made it Clean
+
+Intern Moses washed EV33 using a ElbowGrease wash method and made it Clean
+
+Intern Isabele washed Monster6 using a Detailed wash method and made it Sparkling (earned $10.0)
+
+
+Repairing...
+
+Mechanic Kathryn repaired EV14 and made it Used (earned $10.0)
+
+Mechanic Tristan repaired Motor3 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+Satellite Radio added. Price increased by $1296.60
+Salesperson Zach sold Clean LikeNew SatRadio Motor0 to Buyer for $27228.60 (earned $10.0)
+
+
+Racing...
+
+Driver Daquarius placed 2 in today's race using Monster7 (earned $10.0)
+
+Driver Jeff placed 3 in today's race using Monster5 (earned $10.0)
+
+Driver Ariana placed 1 in today's race using Monster4 (earned $10.0)
+
+
+Ending...
+
+Jose has been promoted to Mech
+
+Mech Kathryn has quit FNCD 

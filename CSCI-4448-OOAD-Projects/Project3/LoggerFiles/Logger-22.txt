@@ -1,0 +1,29 @@
+
+*** FNCD Day 22 ***
+Opening... (current budget $1378769.01)
+
+Hired Driver Mary
+
+
+Washing...
+
+Intern Derrek washed Pickup86 using a ElbowGrease wash method and made it Clean
+
+Intern Braden washed Monster7 using a ElbowGrease wash method and made it Dirty
+
+Intern Amanda washed Monster4 using a ElbowGrease wash method and made it Clean
+
+Intern Derrek washed Pickup62 using a ElbowGrease wash method and made it Clean
+
+Intern Braden washed EV12 using a ElbowGrease wash method and made it Clean
+
+Intern Amanda washed Pickup10 using a ElbowGrease wash method and made it Clean
+
+
+Repairing...
+
+
+Selling...
+
+
+Ending...

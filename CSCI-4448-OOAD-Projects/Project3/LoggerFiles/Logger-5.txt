@@ -1,0 +1,40 @@
+
+*** FNCD Day 5 ***
+Opening... (current budget $169266.20)
+
+
+Washing...
+
+Intern Brett washed Motor3 using a Chemical wash method and made it Clean
+
+Intern Eliza washed Pickup8 using a Detailed wash method and made it Clean
+
+Intern Jose washed EV33 using a Chemical wash method and made it Clean
+
+Intern Brett washed EV15 using a Chemical wash method and made it Clean
+
+Intern Eliza washed Pickup11 using a Detailed wash method and made it Clean
+
+Intern Jose washed Motor0 using a Chemical wash method and made it Clean
+
+
+Repairing...
+
+Mechanic Kathryn repaired Pickup10 and made it Used (earned $25.0)
+
+Mechanic Tristan repaired Car20 and made it LikeNew (earned $10.0)
+
+Mechanic John repaired Car22 and made it LikeNew (earned $10.0)
+
+Mechanic Kathryn repaired EV33 and made it LikeNew (earned $10.0)
+
+Mechanic John repaired Motor32 and made it LikeNew (earned $10.0)
+
+
+Selling...
+
+Satellite Radio added. Price increased by $1296.60
+Salesperson Nora sold Clean LikeNew SatRadio Motor0 to Buyer for $27228.60 (earned $10.0)
+
+
+Ending...

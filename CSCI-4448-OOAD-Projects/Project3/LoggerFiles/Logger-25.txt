@@ -1,0 +1,51 @@
+
+*** FNCD Day 25 ***
+Opening... (current budget $1786172.13)
+
+Hired Intern Don
+
+Purchased Used, Dirty Car for $21514.4
+
+Purchased LikeNew, Dirty Car for $43978.0
+
+
+Washing...
+
+Intern Amanda washed Motor3 using a ElbowGrease wash method and made it Clean
+
+Intern Pete washed EV107 using a ElbowGrease wash method and made it Clean
+
+Intern Don washed Pickup106 using a Detailed wash method and made it Dirty
+
+Intern Amanda washed Monster4 using a ElbowGrease wash method and made it Clean
+
+Intern Pete washed Motor54 using a ElbowGrease wash method and made it Clean
+
+Intern Don washed PerfCar99 using a Detailed wash method and made it Clean
+
+
+Repairing...
+
+Mechanic Jose repaired PerfCar99 and made it LikeNew (earned $50.0)
+
+Mechanic Peter repaired Pickup106 and made it LikeNew (earned $25.0)
+
+Mechanic Derrek repaired Motor54 and made it Used (earned $10.0)
+
+
+Selling...
+
+Salesperson Brett sold Sparkling LikeNew PerfCar17 to Buyer for $59716.00 (earned $50.0)
+
+Extended Warranty added. Price increased by $17591.20
+Salesperson Brett sold Clean LikeNew ExtWar EV107 to Buyer for $105547.20 (earned $10.0)
+
+Extended Warranty added. Price increased by $10757.20
+Salesperson Braden sold Dirty LikeNew ExtWar Pickup106 to Buyer for $64543.20 (earned $25.0)
+
+Salesperson Brett sold Dirty LikeNew PerfCar99 to Buyer for $73203.75 (earned $50.0)
+
+Salesperson Isabele sold Clean LikeNew PerfCar19 to Buyer for $54948.00 (earned $50.0)
+
+
+Ending...

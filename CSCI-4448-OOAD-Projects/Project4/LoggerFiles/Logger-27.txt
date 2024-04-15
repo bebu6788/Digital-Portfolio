@@ -1,0 +1,59 @@
+
+*** FNCD Day 27 ***
+FNCD North Opening... (current budget $4287008.36)
+
+FNCD South Opening... (current budget $5334204.31)
+
+
+FNCD North Washing...
+
+Intern Cat washed PerfCar38 using a Detailed wash method and made it Clean
+
+Intern Zach washed EV17 using a Detailed wash method and made it Clean
+
+Intern Livy washed EV283 using a Chemical wash method and made it Clean
+
+Intern Cat washed Limo235 using a Detailed wash method and made it Clean
+
+Intern Zach washed EV12 using a Detailed wash method and made it Sparkling (earned $10.0)
+
+Intern Livy washed Hyper28 using a Chemical wash method and made it Clean
+
+
+FNCD South Washing...
+
+Intern Braden washed Car284 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed PerfCar95 using a Chemical wash method and made it Sparkling (earned $50.0)
+
+Intern Wexler washed Monster86 using a Chemical wash method and made it Clean
+
+Intern Braden washed Limo63 using a ElbowGrease wash method and made it Clean
+
+Intern Carmen washed Hyper83 using a Chemical wash method and made it Clean
+
+Intern Wexler washed Van58 using a Chemical wash method and made it Sparkling (earned $50.0)
+
+
+FNCD North Repairing...
+
+Mechanic Faith repaired PerfCar38 and made it LikeNew (earned $50.0)
+
+
+FNCD South Repairing...
+
+Mechanic Isabele repaired Car284 and made it LikeNew (earned $10.0)
+
+
+FNCD North Selling...
+
+Salesperson Zander sold Sparkling LikeNew Hyper29 to Buyer for $516841.88 (earned $100.0)
+
+
+FNCD South Selling...
+
+
+FNCD North Ending...
+
+
+FNCD South Ending...

@@ -1,0 +1,39 @@
+
+*** FNCD Day 18 ***
+Opening... (current budget $990606.53)
+
+Hired Intern Kanye
+
+Purchased Used, Dirty Car for $27835.2
+
+
+Washing...
+
+Intern Cat washed Car55 using a Detailed wash method and made it Clean
+
+Intern Peter washed Monster5 using a Chemical wash method and made it Clean
+
+Intern Kanye washed Pickup78 using a ElbowGrease wash method and made it Dirty
+
+Intern Cat washed EV15 using a Detailed wash method and made it Sparkling (earned $10.0)
+
+Intern Peter washed Pickup9 using a Chemical wash method and made it Sparkling (earned $25.0)
+
+Intern Kanye washed EV33 using a ElbowGrease wash method and made it Sparkling (earned $10.0)
+
+
+Repairing...
+
+Mechanic Tristan repaired Pickup78 and made it LikeNew (earned $25.0)
+
+Mechanic John repaired Motor3 and made it Used (earned $10.0)
+
+
+Selling...
+
+Salesperson Isabele sold Dirty LikeNew Pickup78 to Buyer for $69588.00 (earned $25.0)
+
+
+Ending...
+
+Intern Cat has quit FNCD 

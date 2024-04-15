@@ -1,0 +1,35 @@
+
+*** FNCD Day 11 ***
+Opening... (current budget $555033.30)
+
+Purchased Broken, Dirty Car for $6863.5
+
+Purchased Broken, Dirty Car for $7917.0
+
+
+Washing...
+
+Intern Isabele washed Car55 using a Detailed wash method and made it Clean
+
+Intern Sam washed Motor54 using a Chemical wash method and made it Clean
+
+Intern Jacob washed PerfCar17 using a Chemical wash method and made it Clean
+
+Intern Isabele washed Pickup8 using a Detailed wash method and made it Clean
+
+Intern Sam washed EV12 using a Chemical wash method and made it Dirty
+
+Intern Jacob washed PerfCar16 using a Chemical wash method and made it Clean
+
+
+Repairing...
+
+Mechanic Tristan repaired Motor54 and made it Used (earned $10.0)
+
+Mechanic John repaired Car55 and made it Used (earned $10.0)
+
+
+Selling...
+
+
+Ending...

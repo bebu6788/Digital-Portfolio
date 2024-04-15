@@ -1,0 +1,100 @@
+
+*** FNCD Day 5 ***
+FNCD North Opening... (current budget $368586.50)
+
+Purchased Used, Dirty Car for $11574.4
+
+FNCD South Opening... (current budget $313324.80)
+
+Hired Intern Yin
+
+Purchased Used, Clean Car for $9780.0
+
+
+FNCD North Washing...
+
+Intern Anne washed EV14 using a Chemical wash method and made it Clean
+
+Intern Bella washed Van2 using a Chemical wash method and made it Clean
+
+Intern Nora washed Van0 using a Detailed wash method and made it Dirty
+
+Intern Anne washed EV15 using a Chemical wash method and made it Clean
+
+Intern Bella washed Van3 using a Chemical wash method and made it Clean
+
+Intern Nora washed Monster35 using a Detailed wash method and made it Clean
+
+
+FNCD South Washing...
+
+Intern Destiny washed Pickup72 using a ElbowGrease wash method and made it Clean
+
+Intern Joe washed EV68 using a Chemical wash method and made it Clean
+
+Intern Yin washed Monster88 using a Chemical wash method and made it Dirty
+
+Intern Destiny washed Monster86 using a ElbowGrease wash method and made it Dirty
+
+Intern Joe washed Car99 using a Chemical wash method and made it Clean
+
+Intern Yin washed Motor102 using a Chemical wash method and made it Clean
+
+
+FNCD North Repairing...
+
+Mechanic Ethan repaired Monster35 and made it Used (earned $10.0)
+
+Mechanic Hannah repaired Van3 and made it LikeNew (earned $50.0)
+
+Mechanic Adin repaired Motor129 and made it LikeNew (earned $10.0)
+
+Mechanic Ethan repaired Limo9 and made it Used (earned $70.0)
+
+Mechanic Hannah repaired Hyper27 and made it LikeNew (earned $100.0)
+
+Mechanic Adin repaired EV17 and made it LikeNew (earned $10.0)
+
+
+FNCD South Repairing...
+
+Mechanic Derrek repaired Motor106 and made it LikeNew (earned $10.0)
+
+Mechanic Isabele repaired Limo64 and made it Used (earned $70.0)
+
+Mechanic Derrek repaired Car100 and made it LikeNew (earned $10.0)
+
+Mechanic Umar repaired Pickup76 and made it Used (earned $25.0)
+
+Mechanic Isabele repaired Limo62 and made it LikeNew (earned $70.0)
+
+
+FNCD North Selling...
+
+Salesperson Charlie sold Dirty LikeNew Motor52 to Buyer for $24652.00 (earned $10.0)
+
+Satellite Radio added. Price increased by $4449.50
+Salesperson Silva sold Clean LikeNew SatRadio EV15 to Buyer for $93439.50 (earned $10.0)
+
+
+FNCD South Selling...
+
+Extended Warranty added. Price increased by $15886.00
+Salesperson Brant sold Clean LikeNew ExtWar EV69 to Buyer for $95316.00 (earned $10.0)
+
+Satellite Radio added. Price increased by $4602.70
+Salesperson Roxie sold Dirty LikeNew SatRadio Monster88 to Buyer for $96656.70 (earned $10.0)
+
+Road Rescue Coverage added. Price increased by $2703.72
+Satellite Radio added. Price increased by $6894.49
+Salesperson Solomon sold Clean LikeNew SatRadio RRC Limo61 to Buyer for $144784.21 (earned $70.0)
+
+Extended Warranty added. Price increased by $67438.50
+Satellite Radio added. Price increased by $20231.55
+Salesperson Brant sold Dirty LikeNew SatRadio ExtWar Hyper80 to Buyer for $424862.55 (earned $100.0)
+
+
+FNCD North Ending...
+
+
+FNCD South Ending...
