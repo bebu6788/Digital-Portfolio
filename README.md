@@ -6,4 +6,6 @@ As a senior studying Computer Science at CU Boulder, my academic journey has bee
 
 In this portfolio you will be able to find all relevant school projects that I have built over the course of earning my computer science degree from CU Boulder. In addition to these codebases that I have worked on, you can read about some of my life passions and other extracurriculars too! You will also find a resume attached, along with some of my social media platforms that I have built for professional, and beyond! I hope you enjoy. 
 
-![IMG_05B997C9F032-1](https://github.com/bebu6788/Digital-Portfolio/assets/95314503/6c80bd38-b3a5-4f28-bff9-a6694ca33d0b)
+<img src="https://github.com/bebu6788/Digital-Portfolio/assets/95314503/6c80bd38-b3a5-4f28-bff9-a6694ca33d0b" width="10%" height="10%"/>
+<img src="https://github.com/bebu6788/Digital-Portfolio/assets/95314503/dc313a02-9991-46f0-83f3-045684acf59c" width="10%" height="10%"/>
+<img src="https://github.com/bebu6788/Digital-Portfolio/assets/95314503/cbeccb9e-ec81-465b-a68c-b61187684e33" width="10%"/>
