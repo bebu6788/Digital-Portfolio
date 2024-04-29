@@ -1,2 +1,1 @@
-[Resume.pdf](https://github.com/bebu6788/Digital-Portfolio/files/15145181/Resume.pdf)
-<img src="https://github.com/bebu6788/Digital-Portfolio/files/15145181/Resume.pdf"/>
+[Resume](https://docs.google.com/document/d/1fZJfKhkn0kXzjF1kRayXCESsE_a_ly6c0R64zv3uCtk/edit?usp=sharing)
